@@ -5738,3 +5738,1071 @@
 2020-10-21_15:24:25.60466 level=info ts=2020-10-21T15:24:25.604Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
 2020-10-21_15:24:25.60937 level=info ts=2020-10-21T15:24:25.609Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
 2020-10-21_15:24:25.61358 level=error ts=2020-10-21T15:24:25.613Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:26.68599 level=info ts=2020-10-21T15:24:26.684Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:26.68601 level=info ts=2020-10-21T15:24:26.685Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:26.68664 level=info ts=2020-10-21T15:24:26.686Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:26.69234 level=error ts=2020-10-21T15:24:26.692Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:27.76841 level=info ts=2020-10-21T15:24:27.768Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:27.76860 level=info ts=2020-10-21T15:24:27.768Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:27.77555 level=info ts=2020-10-21T15:24:27.775Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:27.77685 level=error ts=2020-10-21T15:24:27.776Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:28.91857 level=info ts=2020-10-21T15:24:28.918Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:28.91861 level=info ts=2020-10-21T15:24:28.918Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:28.91954 level=info ts=2020-10-21T15:24:28.919Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:28.92065 level=error ts=2020-10-21T15:24:28.920Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:29.95896 level=info ts=2020-10-21T15:24:29.958Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:29.95919 level=info ts=2020-10-21T15:24:29.959Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:29.95985 level=info ts=2020-10-21T15:24:29.959Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:29.96129 level=error ts=2020-10-21T15:24:29.961Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:30.99956 level=info ts=2020-10-21T15:24:30.999Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:30.99987 level=info ts=2020-10-21T15:24:30.999Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:31.00046 level=info ts=2020-10-21T15:24:31.000Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:31.00119 level=error ts=2020-10-21T15:24:31.001Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:32.03974 level=info ts=2020-10-21T15:24:32.039Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:32.03999 level=info ts=2020-10-21T15:24:32.039Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:32.04063 level=info ts=2020-10-21T15:24:32.040Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:32.04130 level=error ts=2020-10-21T15:24:32.041Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:33.11209 level=info ts=2020-10-21T15:24:33.112Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:33.11233 level=info ts=2020-10-21T15:24:33.112Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:33.11290 level=info ts=2020-10-21T15:24:33.112Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:33.11384 level=error ts=2020-10-21T15:24:33.113Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:34.17788 level=info ts=2020-10-21T15:24:34.177Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:34.17793 level=info ts=2020-10-21T15:24:34.177Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:34.17960 level=info ts=2020-10-21T15:24:34.179Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:34.18144 level=error ts=2020-10-21T15:24:34.181Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:35.28160 level=info ts=2020-10-21T15:24:35.281Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:35.28187 level=info ts=2020-10-21T15:24:35.281Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:35.28262 level=info ts=2020-10-21T15:24:35.282Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:35.28341 level=error ts=2020-10-21T15:24:35.283Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:36.48927 level=info ts=2020-10-21T15:24:36.476Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:36.48930 level=info ts=2020-10-21T15:24:36.476Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:36.48931 level=info ts=2020-10-21T15:24:36.477Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:36.50404 level=error ts=2020-10-21T15:24:36.494Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:37.58769 level=info ts=2020-10-21T15:24:37.586Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:37.58771 level=info ts=2020-10-21T15:24:37.586Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:37.58771 level=info ts=2020-10-21T15:24:37.587Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:37.59505 level=error ts=2020-10-21T15:24:37.594Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:38.67664 level=info ts=2020-10-21T15:24:38.676Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:38.67697 level=info ts=2020-10-21T15:24:38.676Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:38.67761 level=info ts=2020-10-21T15:24:38.677Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:38.67889 level=error ts=2020-10-21T15:24:38.678Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:39.78839 level=info ts=2020-10-21T15:24:39.787Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:39.78842 level=info ts=2020-10-21T15:24:39.787Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:39.78842 level=info ts=2020-10-21T15:24:39.787Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:39.78843 level=error ts=2020-10-21T15:24:39.788Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:40.86910 level=info ts=2020-10-21T15:24:40.869Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:40.86933 level=info ts=2020-10-21T15:24:40.869Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:40.86992 level=info ts=2020-10-21T15:24:40.869Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:40.87159 level=error ts=2020-10-21T15:24:40.871Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:41.94949 level=info ts=2020-10-21T15:24:41.949Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:41.94973 level=info ts=2020-10-21T15:24:41.949Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:41.95033 level=info ts=2020-10-21T15:24:41.950Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:41.95712 level=error ts=2020-10-21T15:24:41.957Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:43.03634 level=info ts=2020-10-21T15:24:43.036Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:43.03660 level=info ts=2020-10-21T15:24:43.036Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:43.03737 level=info ts=2020-10-21T15:24:43.037Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:43.04428 level=error ts=2020-10-21T15:24:43.044Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:44.12044 level=info ts=2020-10-21T15:24:44.120Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:44.12068 level=info ts=2020-10-21T15:24:44.120Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:44.12145 level=info ts=2020-10-21T15:24:44.121Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:44.12241 level=error ts=2020-10-21T15:24:44.122Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:45.20754 level=info ts=2020-10-21T15:24:45.207Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:45.20782 level=info ts=2020-10-21T15:24:45.207Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:45.20851 level=info ts=2020-10-21T15:24:45.208Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:45.20948 level=error ts=2020-10-21T15:24:45.209Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:46.30669 level=info ts=2020-10-21T15:24:46.306Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:46.30694 level=info ts=2020-10-21T15:24:46.306Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:46.31421 level=info ts=2020-10-21T15:24:46.313Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:46.31519 level=error ts=2020-10-21T15:24:46.315Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:47.38967 level=info ts=2020-10-21T15:24:47.389Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:47.38994 level=info ts=2020-10-21T15:24:47.389Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:47.39063 level=info ts=2020-10-21T15:24:47.390Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:47.39703 level=error ts=2020-10-21T15:24:47.396Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:48.50141 level=info ts=2020-10-21T15:24:48.499Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:48.50143 level=info ts=2020-10-21T15:24:48.499Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:48.50143 level=info ts=2020-10-21T15:24:48.499Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:48.50143 level=error ts=2020-10-21T15:24:48.500Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:49.54966 level=info ts=2020-10-21T15:24:49.549Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:49.54970 level=info ts=2020-10-21T15:24:49.549Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:49.55058 level=info ts=2020-10-21T15:24:49.550Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:49.55622 level=error ts=2020-10-21T15:24:49.556Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:50.59915 level=info ts=2020-10-21T15:24:50.599Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:50.59919 level=info ts=2020-10-21T15:24:50.599Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:50.60542 level=info ts=2020-10-21T15:24:50.605Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:50.60631 level=error ts=2020-10-21T15:24:50.606Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:51.64349 level=info ts=2020-10-21T15:24:51.643Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:51.64354 level=info ts=2020-10-21T15:24:51.643Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:51.64424 level=info ts=2020-10-21T15:24:51.644Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:51.64486 level=error ts=2020-10-21T15:24:51.644Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:52.72576 level=info ts=2020-10-21T15:24:52.725Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:52.72594 level=info ts=2020-10-21T15:24:52.725Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:52.72961 level=info ts=2020-10-21T15:24:52.729Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:52.73386 level=error ts=2020-10-21T15:24:52.733Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:53.80853 level=info ts=2020-10-21T15:24:53.808Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:53.80879 level=info ts=2020-10-21T15:24:53.808Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:53.81349 level=info ts=2020-10-21T15:24:53.813Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:53.81425 level=error ts=2020-10-21T15:24:53.814Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:54.89285 level=info ts=2020-10-21T15:24:54.892Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:54.89306 level=info ts=2020-10-21T15:24:54.893Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:54.89872 level=info ts=2020-10-21T15:24:54.898Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:54.90071 level=error ts=2020-10-21T15:24:54.900Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:55.97760 level=info ts=2020-10-21T15:24:55.977Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:55.97780 level=info ts=2020-10-21T15:24:55.977Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:55.97939 level=info ts=2020-10-21T15:24:55.979Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:55.98497 level=error ts=2020-10-21T15:24:55.984Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:57.07103 level=info ts=2020-10-21T15:24:57.070Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:57.07124 level=info ts=2020-10-21T15:24:57.071Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:57.07187 level=info ts=2020-10-21T15:24:57.071Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:57.08011 level=error ts=2020-10-21T15:24:57.080Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:58.16020 level=info ts=2020-10-21T15:24:58.160Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:58.16049 level=info ts=2020-10-21T15:24:58.160Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:58.16709 level=info ts=2020-10-21T15:24:58.166Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:58.16833 level=error ts=2020-10-21T15:24:58.168Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:24:59.24225 level=info ts=2020-10-21T15:24:59.242Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:24:59.24248 level=info ts=2020-10-21T15:24:59.242Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:24:59.24315 level=info ts=2020-10-21T15:24:59.243Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:24:59.25488 level=error ts=2020-10-21T15:24:59.254Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:00.34631 level=info ts=2020-10-21T15:25:00.346Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:00.34645 level=info ts=2020-10-21T15:25:00.346Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:00.34706 level=info ts=2020-10-21T15:25:00.347Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:00.35332 level=error ts=2020-10-21T15:25:00.353Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:01.47512 level=info ts=2020-10-21T15:25:01.475Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:01.47516 level=info ts=2020-10-21T15:25:01.475Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:01.47855 level=info ts=2020-10-21T15:25:01.478Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:01.48481 level=error ts=2020-10-21T15:25:01.484Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:02.57643 level=info ts=2020-10-21T15:25:02.576Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:02.57676 level=info ts=2020-10-21T15:25:02.576Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:02.57744 level=info ts=2020-10-21T15:25:02.577Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:02.58317 level=error ts=2020-10-21T15:25:02.583Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:03.67507 level=info ts=2020-10-21T15:25:03.674Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:03.67509 level=info ts=2020-10-21T15:25:03.675Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:03.67590 level=info ts=2020-10-21T15:25:03.675Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:03.67653 level=error ts=2020-10-21T15:25:03.676Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:04.77378 level=info ts=2020-10-21T15:25:04.773Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:04.77399 level=info ts=2020-10-21T15:25:04.773Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:04.77518 level=info ts=2020-10-21T15:25:04.775Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:04.77589 level=error ts=2020-10-21T15:25:04.775Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:05.88510 level=info ts=2020-10-21T15:25:05.878Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:05.88536 level=info ts=2020-10-21T15:25:05.885Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:05.88622 level=info ts=2020-10-21T15:25:05.886Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:05.88897 level=error ts=2020-10-21T15:25:05.888Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:07.05577 level=info ts=2020-10-21T15:25:07.053Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:07.05581 level=info ts=2020-10-21T15:25:07.053Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:07.05582 level=info ts=2020-10-21T15:25:07.054Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:07.05655 level=error ts=2020-10-21T15:25:07.056Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:08.16121 level=info ts=2020-10-21T15:25:08.161Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:08.16131 level=info ts=2020-10-21T15:25:08.161Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:08.16181 level=info ts=2020-10-21T15:25:08.161Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:08.16246 level=error ts=2020-10-21T15:25:08.162Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:09.26881 level=info ts=2020-10-21T15:25:09.268Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:09.26902 level=info ts=2020-10-21T15:25:09.268Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:09.26956 level=info ts=2020-10-21T15:25:09.269Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:09.27045 level=error ts=2020-10-21T15:25:09.270Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:10.31828 level=info ts=2020-10-21T15:25:10.318Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:10.31832 level=info ts=2020-10-21T15:25:10.318Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:10.31901 level=info ts=2020-10-21T15:25:10.318Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:10.31969 level=error ts=2020-10-21T15:25:10.319Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:11.37915 level=info ts=2020-10-21T15:25:11.379Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:11.37956 level=info ts=2020-10-21T15:25:11.379Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:11.38047 level=info ts=2020-10-21T15:25:11.380Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:11.38712 level=error ts=2020-10-21T15:25:11.387Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:12.44746 level=info ts=2020-10-21T15:25:12.447Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:12.44760 level=info ts=2020-10-21T15:25:12.447Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:12.44833 level=info ts=2020-10-21T15:25:12.448Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:12.45453 level=error ts=2020-10-21T15:25:12.454Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:13.55024 level=info ts=2020-10-21T15:25:13.550Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:13.55057 level=info ts=2020-10-21T15:25:13.550Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:13.55455 level=info ts=2020-10-21T15:25:13.554Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:13.55985 level=error ts=2020-10-21T15:25:13.559Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:14.64723 level=info ts=2020-10-21T15:25:14.647Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:14.64784 level=info ts=2020-10-21T15:25:14.647Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:14.65436 level=info ts=2020-10-21T15:25:14.654Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:14.65631 level=error ts=2020-10-21T15:25:14.656Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:15.74035 level=info ts=2020-10-21T15:25:15.740Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:15.74038 level=info ts=2020-10-21T15:25:15.740Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:15.74239 level=info ts=2020-10-21T15:25:15.742Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:15.74425 level=error ts=2020-10-21T15:25:15.744Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:16.85536 level=info ts=2020-10-21T15:25:16.855Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:16.85572 level=info ts=2020-10-21T15:25:16.855Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:16.85861 level=info ts=2020-10-21T15:25:16.858Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:16.86065 level=error ts=2020-10-21T15:25:16.860Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:17.96009 level=info ts=2020-10-21T15:25:17.960Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:17.96038 level=info ts=2020-10-21T15:25:17.960Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:17.96109 level=info ts=2020-10-21T15:25:17.961Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:17.96174 level=error ts=2020-10-21T15:25:17.961Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:19.04040 level=info ts=2020-10-21T15:25:19.040Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:19.04071 level=info ts=2020-10-21T15:25:19.040Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:19.05035 level=info ts=2020-10-21T15:25:19.049Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:19.05133 level=error ts=2020-10-21T15:25:19.051Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:20.13543 level=info ts=2020-10-21T15:25:20.135Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:20.13547 level=info ts=2020-10-21T15:25:20.135Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:20.13623 level=info ts=2020-10-21T15:25:20.136Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:20.13724 level=error ts=2020-10-21T15:25:20.137Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:21.21185 level=info ts=2020-10-21T15:25:21.211Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:21.21213 level=info ts=2020-10-21T15:25:21.211Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:21.21311 level=info ts=2020-10-21T15:25:21.213Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:21.21471 level=error ts=2020-10-21T15:25:21.214Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:22.31700 level=info ts=2020-10-21T15:25:22.316Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:22.31703 level=info ts=2020-10-21T15:25:22.316Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:22.31704 level=info ts=2020-10-21T15:25:22.316Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:22.31765 level=error ts=2020-10-21T15:25:22.317Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:23.39678 level=info ts=2020-10-21T15:25:23.396Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:23.39733 level=info ts=2020-10-21T15:25:23.397Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:23.39799 level=info ts=2020-10-21T15:25:23.397Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:23.40483 level=error ts=2020-10-21T15:25:23.404Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:24.51641 level=info ts=2020-10-21T15:25:24.516Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:24.51646 level=info ts=2020-10-21T15:25:24.516Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:24.51795 level=info ts=2020-10-21T15:25:24.517Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:24.51873 level=error ts=2020-10-21T15:25:24.518Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:25.61068 level=info ts=2020-10-21T15:25:25.610Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:25.61092 level=info ts=2020-10-21T15:25:25.610Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:25.61187 level=info ts=2020-10-21T15:25:25.611Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:25.61762 level=error ts=2020-10-21T15:25:25.612Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:26.69121 level=info ts=2020-10-21T15:25:26.691Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:26.69152 level=info ts=2020-10-21T15:25:26.691Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:26.69307 level=info ts=2020-10-21T15:25:26.692Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:26.69526 level=error ts=2020-10-21T15:25:26.695Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:27.79645 level=info ts=2020-10-21T15:25:27.796Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:27.79680 level=info ts=2020-10-21T15:25:27.796Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:27.80415 level=info ts=2020-10-21T15:25:27.804Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:27.80586 level=error ts=2020-10-21T15:25:27.805Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:28.90234 level=info ts=2020-10-21T15:25:28.902Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:28.90260 level=info ts=2020-10-21T15:25:28.902Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:28.90323 level=info ts=2020-10-21T15:25:28.903Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:28.90753 level=error ts=2020-10-21T15:25:28.903Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:30.00321 level=info ts=2020-10-21T15:25:30.003Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:30.00347 level=info ts=2020-10-21T15:25:30.003Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:30.00833 level=info ts=2020-10-21T15:25:30.008Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:30.00942 level=error ts=2020-10-21T15:25:30.009Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:31.11955 level=info ts=2020-10-21T15:25:31.119Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:31.11991 level=info ts=2020-10-21T15:25:31.119Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:31.12872 level=info ts=2020-10-21T15:25:31.128Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:31.12964 level=error ts=2020-10-21T15:25:31.129Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:32.23776 level=info ts=2020-10-21T15:25:32.237Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:32.23780 level=info ts=2020-10-21T15:25:32.237Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:32.23781 level=info ts=2020-10-21T15:25:32.237Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:32.23872 level=error ts=2020-10-21T15:25:32.238Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:33.34644 level=info ts=2020-10-21T15:25:33.346Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:33.34672 level=info ts=2020-10-21T15:25:33.346Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:33.34743 level=info ts=2020-10-21T15:25:33.347Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:33.34834 level=error ts=2020-10-21T15:25:33.348Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:34.44563 level=info ts=2020-10-21T15:25:34.445Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:34.44588 level=info ts=2020-10-21T15:25:34.445Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:34.46081 level=info ts=2020-10-21T15:25:34.459Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:34.46083 level=error ts=2020-10-21T15:25:34.460Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:35.53963 level=info ts=2020-10-21T15:25:35.539Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:35.53989 level=info ts=2020-10-21T15:25:35.539Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:35.54055 level=info ts=2020-10-21T15:25:35.540Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:35.54156 level=error ts=2020-10-21T15:25:35.541Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:36.62581 level=info ts=2020-10-21T15:25:36.625Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:36.62607 level=info ts=2020-10-21T15:25:36.626Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:36.62687 level=info ts=2020-10-21T15:25:36.626Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:36.63494 level=error ts=2020-10-21T15:25:36.634Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:37.71069 level=info ts=2020-10-21T15:25:37.710Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:37.71095 level=info ts=2020-10-21T15:25:37.710Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:37.71859 level=info ts=2020-10-21T15:25:37.718Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:37.71958 level=error ts=2020-10-21T15:25:37.719Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:38.82466 level=info ts=2020-10-21T15:25:38.824Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:38.82496 level=info ts=2020-10-21T15:25:38.824Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:38.82592 level=info ts=2020-10-21T15:25:38.825Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:38.83282 level=error ts=2020-10-21T15:25:38.832Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:39.92699 level=info ts=2020-10-21T15:25:39.926Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:39.92730 level=info ts=2020-10-21T15:25:39.927Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:39.92887 level=info ts=2020-10-21T15:25:39.928Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:39.93085 level=error ts=2020-10-21T15:25:39.930Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:41.04293 level=info ts=2020-10-21T15:25:41.042Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:41.04325 level=info ts=2020-10-21T15:25:41.043Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:41.04392 level=info ts=2020-10-21T15:25:41.043Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:41.04605 level=error ts=2020-10-21T15:25:41.045Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:42.14489 level=info ts=2020-10-21T15:25:42.143Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:42.14491 level=info ts=2020-10-21T15:25:42.143Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:42.14491 level=info ts=2020-10-21T15:25:42.144Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:42.14491 level=error ts=2020-10-21T15:25:42.144Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:43.20819 level=info ts=2020-10-21T15:25:43.208Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:43.20839 level=info ts=2020-10-21T15:25:43.208Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:43.21577 level=info ts=2020-10-21T15:25:43.215Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:43.21835 level=error ts=2020-10-21T15:25:43.218Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:44.31243 level=info ts=2020-10-21T15:25:44.312Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:44.31260 level=info ts=2020-10-21T15:25:44.312Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:44.31337 level=info ts=2020-10-21T15:25:44.313Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:44.31514 level=error ts=2020-10-21T15:25:44.315Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:45.39452 level=info ts=2020-10-21T15:25:45.394Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:45.39475 level=info ts=2020-10-21T15:25:45.394Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:45.39538 level=info ts=2020-10-21T15:25:45.395Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:45.39735 level=error ts=2020-10-21T15:25:45.397Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:46.48795 level=info ts=2020-10-21T15:25:46.487Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:46.48819 level=info ts=2020-10-21T15:25:46.488Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:46.48885 level=info ts=2020-10-21T15:25:46.488Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:46.49402 level=error ts=2020-10-21T15:25:46.489Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:47.57123 level=info ts=2020-10-21T15:25:47.571Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:47.57148 level=info ts=2020-10-21T15:25:47.571Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:47.57311 level=info ts=2020-10-21T15:25:47.573Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:47.57520 level=error ts=2020-10-21T15:25:47.575Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:48.66884 level=info ts=2020-10-21T15:25:48.668Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:48.66899 level=info ts=2020-10-21T15:25:48.668Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:48.66953 level=info ts=2020-10-21T15:25:48.669Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:48.67058 level=error ts=2020-10-21T15:25:48.670Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:49.71862 level=info ts=2020-10-21T15:25:49.717Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:49.71864 level=info ts=2020-10-21T15:25:49.717Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:49.71865 level=info ts=2020-10-21T15:25:49.718Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:49.71865 level=error ts=2020-10-21T15:25:49.718Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:50.76325 level=info ts=2020-10-21T15:25:50.763Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:50.76351 level=info ts=2020-10-21T15:25:50.763Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:50.76429 level=info ts=2020-10-21T15:25:50.764Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:50.76574 level=error ts=2020-10-21T15:25:50.765Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:51.81297 level=info ts=2020-10-21T15:25:51.812Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:51.81313 level=info ts=2020-10-21T15:25:51.813Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:51.81381 level=info ts=2020-10-21T15:25:51.813Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:51.81449 level=error ts=2020-10-21T15:25:51.814Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:52.87366 level=info ts=2020-10-21T15:25:52.873Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:52.87380 level=info ts=2020-10-21T15:25:52.873Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:52.87452 level=info ts=2020-10-21T15:25:52.874Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:52.87515 level=error ts=2020-10-21T15:25:52.875Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:53.95413 level=info ts=2020-10-21T15:25:53.954Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:53.95429 level=info ts=2020-10-21T15:25:53.954Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:53.96278 level=info ts=2020-10-21T15:25:53.962Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:53.96382 level=error ts=2020-10-21T15:25:53.963Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:55.04422 level=info ts=2020-10-21T15:25:55.044Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:55.04432 level=info ts=2020-10-21T15:25:55.044Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:55.05048 level=info ts=2020-10-21T15:25:55.050Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:55.05245 level=error ts=2020-10-21T15:25:55.052Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:56.13261 level=info ts=2020-10-21T15:25:56.132Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:56.13291 level=info ts=2020-10-21T15:25:56.132Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:56.13357 level=info ts=2020-10-21T15:25:56.133Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:56.13420 level=error ts=2020-10-21T15:25:56.134Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:57.21109 level=info ts=2020-10-21T15:25:57.211Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:57.21139 level=info ts=2020-10-21T15:25:57.211Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:57.21787 level=info ts=2020-10-21T15:25:57.217Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:57.22177 level=error ts=2020-10-21T15:25:57.221Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:58.29579 level=info ts=2020-10-21T15:25:58.295Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:58.29614 level=info ts=2020-10-21T15:25:58.295Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:58.30212 level=info ts=2020-10-21T15:25:58.302Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:58.30688 level=error ts=2020-10-21T15:25:58.306Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:25:59.38568 level=info ts=2020-10-21T15:25:59.385Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:25:59.38592 level=info ts=2020-10-21T15:25:59.385Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:25:59.38633 level=info ts=2020-10-21T15:25:59.386Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:25:59.39459 level=error ts=2020-10-21T15:25:59.394Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:00.47878 level=info ts=2020-10-21T15:26:00.478Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:00.47908 level=info ts=2020-10-21T15:26:00.479Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:00.48638 level=info ts=2020-10-21T15:26:00.485Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:00.48774 level=error ts=2020-10-21T15:26:00.487Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:01.58927 level=info ts=2020-10-21T15:26:01.588Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:01.58931 level=info ts=2020-10-21T15:26:01.588Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:01.58931 level=info ts=2020-10-21T15:26:01.588Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:01.58971 level=error ts=2020-10-21T15:26:01.589Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:02.67506 level=info ts=2020-10-21T15:26:02.674Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:02.67523 level=info ts=2020-10-21T15:26:02.675Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:02.67600 level=info ts=2020-10-21T15:26:02.675Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:02.68420 level=error ts=2020-10-21T15:26:02.684Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:03.76701 level=info ts=2020-10-21T15:26:03.766Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:03.76704 level=info ts=2020-10-21T15:26:03.767Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:03.76776 level=info ts=2020-10-21T15:26:03.767Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:03.77506 level=error ts=2020-10-21T15:26:03.775Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:04.85320 level=info ts=2020-10-21T15:26:04.853Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:04.85344 level=info ts=2020-10-21T15:26:04.853Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:04.86271 level=info ts=2020-10-21T15:26:04.862Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:04.86378 level=error ts=2020-10-21T15:26:04.863Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:05.94225 level=info ts=2020-10-21T15:26:05.942Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:05.94247 level=info ts=2020-10-21T15:26:05.942Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:05.94623 level=info ts=2020-10-21T15:26:05.946Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:05.95542 level=error ts=2020-10-21T15:26:05.955Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:07.02305 level=info ts=2020-10-21T15:26:07.022Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:07.02321 level=info ts=2020-10-21T15:26:07.023Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:07.02381 level=info ts=2020-10-21T15:26:07.023Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:07.02439 level=error ts=2020-10-21T15:26:07.024Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:08.11824 level=info ts=2020-10-21T15:26:08.117Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:08.11828 level=info ts=2020-10-21T15:26:08.117Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:08.12145 level=info ts=2020-10-21T15:26:08.121Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:08.12244 level=error ts=2020-10-21T15:26:08.122Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:09.19854 level=info ts=2020-10-21T15:26:09.198Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:09.19889 level=info ts=2020-10-21T15:26:09.198Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:09.19955 level=info ts=2020-10-21T15:26:09.199Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:09.21021 level=error ts=2020-10-21T15:26:09.200Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:10.32133 level=info ts=2020-10-21T15:26:10.321Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:10.32137 level=info ts=2020-10-21T15:26:10.321Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:10.32834 level=info ts=2020-10-21T15:26:10.328Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:10.32953 level=error ts=2020-10-21T15:26:10.329Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:11.37364 level=info ts=2020-10-21T15:26:11.373Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:11.37369 level=info ts=2020-10-21T15:26:11.373Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:11.37422 level=info ts=2020-10-21T15:26:11.374Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:11.37489 level=error ts=2020-10-21T15:26:11.374Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:12.42192 level=info ts=2020-10-21T15:26:12.421Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:12.42306 level=info ts=2020-10-21T15:26:12.422Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:12.42391 level=info ts=2020-10-21T15:26:12.423Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:12.42491 level=error ts=2020-10-21T15:26:12.424Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:13.48633 level=info ts=2020-10-21T15:26:13.486Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:13.48636 level=info ts=2020-10-21T15:26:13.486Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:13.48696 level=info ts=2020-10-21T15:26:13.486Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:13.48858 level=error ts=2020-10-21T15:26:13.488Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:14.56978 level=info ts=2020-10-21T15:26:14.569Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:14.57005 level=info ts=2020-10-21T15:26:14.569Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:14.57368 level=info ts=2020-10-21T15:26:14.573Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:14.57898 level=error ts=2020-10-21T15:26:14.578Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:15.65798 level=info ts=2020-10-21T15:26:15.657Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:15.65808 level=info ts=2020-10-21T15:26:15.658Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:15.66612 level=info ts=2020-10-21T15:26:15.666Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:15.66794 level=error ts=2020-10-21T15:26:15.667Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:16.74512 level=info ts=2020-10-21T15:26:16.744Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:16.74515 level=info ts=2020-10-21T15:26:16.744Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:16.74570 level=info ts=2020-10-21T15:26:16.745Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:16.74687 level=error ts=2020-10-21T15:26:16.746Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:17.83228 level=info ts=2020-10-21T15:26:17.832Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:17.83261 level=info ts=2020-10-21T15:26:17.832Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:17.83395 level=info ts=2020-10-21T15:26:17.833Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:17.84696 level=error ts=2020-10-21T15:26:17.846Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:18.94116 level=info ts=2020-10-21T15:26:18.941Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:18.94154 level=info ts=2020-10-21T15:26:18.941Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:18.94608 level=info ts=2020-10-21T15:26:18.946Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:18.95037 level=error ts=2020-10-21T15:26:18.950Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:20.03223 level=info ts=2020-10-21T15:26:20.032Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:20.03227 level=info ts=2020-10-21T15:26:20.032Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:20.03308 level=info ts=2020-10-21T15:26:20.032Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:20.03409 level=error ts=2020-10-21T15:26:20.034Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:21.11746 level=info ts=2020-10-21T15:26:21.117Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:21.11764 level=info ts=2020-10-21T15:26:21.117Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:21.11839 level=info ts=2020-10-21T15:26:21.118Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:21.12242 level=error ts=2020-10-21T15:26:21.122Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:22.19205 level=info ts=2020-10-21T15:26:22.191Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:22.19303 level=info ts=2020-10-21T15:26:22.192Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:22.19369 level=info ts=2020-10-21T15:26:22.193Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:22.19538 level=error ts=2020-10-21T15:26:22.195Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:23.26846 level=info ts=2020-10-21T15:26:23.268Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:23.26850 level=info ts=2020-10-21T15:26:23.268Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:23.26918 level=info ts=2020-10-21T15:26:23.269Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:23.26977 level=error ts=2020-10-21T15:26:23.269Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:24.35375 level=info ts=2020-10-21T15:26:24.353Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:24.35418 level=info ts=2020-10-21T15:26:24.354Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:24.35497 level=info ts=2020-10-21T15:26:24.354Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:24.36597 level=error ts=2020-10-21T15:26:24.356Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:25.44259 level=info ts=2020-10-21T15:26:25.442Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:25.44261 level=info ts=2020-10-21T15:26:25.442Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:25.44329 level=info ts=2020-10-21T15:26:25.443Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:25.44413 level=error ts=2020-10-21T15:26:25.443Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:26.53344 level=info ts=2020-10-21T15:26:26.531Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:26.53346 level=info ts=2020-10-21T15:26:26.532Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:26.53347 level=info ts=2020-10-21T15:26:26.532Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:26.53396 level=error ts=2020-10-21T15:26:26.533Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:27.61213 level=info ts=2020-10-21T15:26:27.612Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:27.61227 level=info ts=2020-10-21T15:26:27.612Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:27.61300 level=info ts=2020-10-21T15:26:27.612Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:27.61391 level=error ts=2020-10-21T15:26:27.613Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:28.73013 level=info ts=2020-10-21T15:26:28.730Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:28.73110 level=info ts=2020-10-21T15:26:28.731Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:28.73181 level=info ts=2020-10-21T15:26:28.731Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:28.73491 level=error ts=2020-10-21T15:26:28.734Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:29.79157 level=info ts=2020-10-21T15:26:29.791Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:29.79195 level=info ts=2020-10-21T15:26:29.791Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:29.80005 level=info ts=2020-10-21T15:26:29.799Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:29.80007 level=error ts=2020-10-21T15:26:29.799Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:30.86757 level=info ts=2020-10-21T15:26:30.867Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:30.86786 level=info ts=2020-10-21T15:26:30.867Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:30.86847 level=info ts=2020-10-21T15:26:30.868Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:30.87456 level=error ts=2020-10-21T15:26:30.874Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:31.96298 level=info ts=2020-10-21T15:26:31.962Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:31.96300 level=info ts=2020-10-21T15:26:31.962Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:31.96367 level=info ts=2020-10-21T15:26:31.963Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:31.96445 level=error ts=2020-10-21T15:26:31.964Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:33.09735 level=info ts=2020-10-21T15:26:33.097Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:33.09769 level=info ts=2020-10-21T15:26:33.097Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:33.09857 level=info ts=2020-10-21T15:26:33.098Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:33.09964 level=error ts=2020-10-21T15:26:33.099Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:34.21480 level=info ts=2020-10-21T15:26:34.214Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:34.21485 level=info ts=2020-10-21T15:26:34.214Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:34.21548 level=info ts=2020-10-21T15:26:34.215Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:34.21605 level=error ts=2020-10-21T15:26:34.215Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:35.32122 level=info ts=2020-10-21T15:26:35.321Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:35.32127 level=info ts=2020-10-21T15:26:35.321Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:35.32190 level=info ts=2020-10-21T15:26:35.321Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:35.32257 level=error ts=2020-10-21T15:26:35.322Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:36.43426 level=info ts=2020-10-21T15:26:36.434Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:36.43529 level=info ts=2020-10-21T15:26:36.435Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:36.44032 level=info ts=2020-10-21T15:26:36.440Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:36.44442 level=error ts=2020-10-21T15:26:36.444Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:37.53202 level=info ts=2020-10-21T15:26:37.531Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:37.53234 level=info ts=2020-10-21T15:26:37.532Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:37.53303 level=info ts=2020-10-21T15:26:37.533Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:37.53464 level=error ts=2020-10-21T15:26:37.534Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:38.61141 level=info ts=2020-10-21T15:26:38.611Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:38.61171 level=info ts=2020-10-21T15:26:38.611Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:38.61242 level=info ts=2020-10-21T15:26:38.612Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:38.62080 level=error ts=2020-10-21T15:26:38.620Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:39.69786 level=info ts=2020-10-21T15:26:39.697Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:39.69817 level=info ts=2020-10-21T15:26:39.698Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:39.70642 level=info ts=2020-10-21T15:26:39.705Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:39.70745 level=error ts=2020-10-21T15:26:39.707Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:40.78212 level=info ts=2020-10-21T15:26:40.782Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:40.78243 level=info ts=2020-10-21T15:26:40.782Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:40.78381 level=info ts=2020-10-21T15:26:40.783Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:40.78552 level=error ts=2020-10-21T15:26:40.785Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:41.86024 level=info ts=2020-10-21T15:26:41.860Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:41.86027 level=info ts=2020-10-21T15:26:41.860Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:41.86381 level=info ts=2020-10-21T15:26:41.863Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:41.86494 level=error ts=2020-10-21T15:26:41.864Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:42.94471 level=info ts=2020-10-21T15:26:42.943Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:42.94475 level=info ts=2020-10-21T15:26:42.943Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:42.94475 level=info ts=2020-10-21T15:26:42.944Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:42.94529 level=error ts=2020-10-21T15:26:42.945Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:44.02795 level=info ts=2020-10-21T15:26:44.027Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:44.02799 level=info ts=2020-10-21T15:26:44.027Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:44.03336 level=info ts=2020-10-21T15:26:44.033Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:44.03872 level=error ts=2020-10-21T15:26:44.038Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:45.11751 level=info ts=2020-10-21T15:26:45.117Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:45.11755 level=info ts=2020-10-21T15:26:45.117Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:45.11806 level=info ts=2020-10-21T15:26:45.118Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:45.11858 level=error ts=2020-10-21T15:26:45.118Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:46.21153 level=info ts=2020-10-21T15:26:46.211Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:46.21214 level=info ts=2020-10-21T15:26:46.212Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:46.21757 level=info ts=2020-10-21T15:26:46.217Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:46.21967 level=error ts=2020-10-21T15:26:46.219Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:47.30532 level=info ts=2020-10-21T15:26:47.305Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:47.30541 level=info ts=2020-10-21T15:26:47.305Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:47.30599 level=info ts=2020-10-21T15:26:47.305Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:47.30656 level=error ts=2020-10-21T15:26:47.306Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:48.37533 level=info ts=2020-10-21T15:26:48.375Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:48.37544 level=info ts=2020-10-21T15:26:48.375Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:48.37611 level=info ts=2020-10-21T15:26:48.376Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:48.37673 level=error ts=2020-10-21T15:26:48.376Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:49.46891 level=info ts=2020-10-21T15:26:49.468Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:49.46938 level=info ts=2020-10-21T15:26:49.469Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:49.47005 level=info ts=2020-10-21T15:26:49.469Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:49.47189 level=error ts=2020-10-21T15:26:49.471Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:50.50921 level=info ts=2020-10-21T15:26:50.509Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:50.50956 level=info ts=2020-10-21T15:26:50.509Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:50.51014 level=info ts=2020-10-21T15:26:50.510Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:50.51616 level=error ts=2020-10-21T15:26:50.516Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:51.55825 level=info ts=2020-10-21T15:26:51.558Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:51.55854 level=info ts=2020-10-21T15:26:51.558Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:51.55916 level=info ts=2020-10-21T15:26:51.559Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:51.56524 level=error ts=2020-10-21T15:26:51.565Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:52.60401 level=info ts=2020-10-21T15:26:52.603Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:52.60428 level=info ts=2020-10-21T15:26:52.604Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:52.60488 level=info ts=2020-10-21T15:26:52.604Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:52.60564 level=error ts=2020-10-21T15:26:52.605Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:53.64386 level=info ts=2020-10-21T15:26:53.643Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:53.64414 level=info ts=2020-10-21T15:26:53.644Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:53.64478 level=info ts=2020-10-21T15:26:53.644Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:53.64552 level=error ts=2020-10-21T15:26:53.645Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:54.73089 level=info ts=2020-10-21T15:26:54.730Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:54.73121 level=info ts=2020-10-21T15:26:54.731Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:54.73730 level=info ts=2020-10-21T15:26:54.736Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:54.74012 level=error ts=2020-10-21T15:26:54.740Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:55.81336 level=info ts=2020-10-21T15:26:55.813Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:55.81372 level=info ts=2020-10-21T15:26:55.813Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:55.81427 level=info ts=2020-10-21T15:26:55.814Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:55.82303 level=error ts=2020-10-21T15:26:55.822Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:56.90907 level=info ts=2020-10-21T15:26:56.909Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:56.90933 level=info ts=2020-10-21T15:26:56.909Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:56.90998 level=info ts=2020-10-21T15:26:56.909Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:56.91169 level=error ts=2020-10-21T15:26:56.911Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:57.99995 level=info ts=2020-10-21T15:26:57.998Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:57.99998 level=info ts=2020-10-21T15:26:57.998Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:57.99998 level=info ts=2020-10-21T15:26:57.999Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:57.99998 level=error ts=2020-10-21T15:26:57.999Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:26:59.08822 level=info ts=2020-10-21T15:26:59.088Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:26:59.08849 level=info ts=2020-10-21T15:26:59.088Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:26:59.09014 level=info ts=2020-10-21T15:26:59.090Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:26:59.09088 level=error ts=2020-10-21T15:26:59.090Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:00.17378 level=info ts=2020-10-21T15:27:00.173Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:00.18143 level=info ts=2020-10-21T15:27:00.181Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:00.18196 level=info ts=2020-10-21T15:27:00.181Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:00.18270 level=error ts=2020-10-21T15:27:00.182Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:01.28122 level=info ts=2020-10-21T15:27:01.281Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:01.28126 level=info ts=2020-10-21T15:27:01.281Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:01.28891 level=info ts=2020-10-21T15:27:01.288Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:01.28988 level=error ts=2020-10-21T15:27:01.289Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:02.39353 level=info ts=2020-10-21T15:27:02.393Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:02.39356 level=info ts=2020-10-21T15:27:02.393Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:02.39412 level=info ts=2020-10-21T15:27:02.394Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:02.39478 level=error ts=2020-10-21T15:27:02.394Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:03.49616 level=info ts=2020-10-21T15:27:03.496Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:03.49618 level=info ts=2020-10-21T15:27:03.496Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:03.49902 level=info ts=2020-10-21T15:27:03.496Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:03.49903 level=error ts=2020-10-21T15:27:03.497Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:04.56876 level=info ts=2020-10-21T15:27:04.568Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:04.56880 level=info ts=2020-10-21T15:27:04.568Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:04.56971 level=info ts=2020-10-21T15:27:04.569Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:04.57279 level=error ts=2020-10-21T15:27:04.572Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:05.67763 level=info ts=2020-10-21T15:27:05.677Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:05.67765 level=info ts=2020-10-21T15:27:05.677Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:05.67827 level=info ts=2020-10-21T15:27:05.678Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:05.67904 level=error ts=2020-10-21T15:27:05.678Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:06.76388 level=info ts=2020-10-21T15:27:06.763Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:06.76418 level=info ts=2020-10-21T15:27:06.763Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:06.76483 level=info ts=2020-10-21T15:27:06.764Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:06.77063 level=error ts=2020-10-21T15:27:06.770Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:07.86073 level=info ts=2020-10-21T15:27:07.860Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:07.86085 level=info ts=2020-10-21T15:27:07.860Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:07.86162 level=info ts=2020-10-21T15:27:07.861Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:07.86225 level=error ts=2020-10-21T15:27:07.862Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:08.98687 level=info ts=2020-10-21T15:27:08.986Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:08.98738 level=info ts=2020-10-21T15:27:08.987Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:08.99053 level=info ts=2020-10-21T15:27:08.990Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:08.99175 level=error ts=2020-10-21T15:27:08.991Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:10.09915 level=info ts=2020-10-21T15:27:10.099Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:10.09921 level=info ts=2020-10-21T15:27:10.099Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:10.10035 level=info ts=2020-10-21T15:27:10.100Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:10.10141 level=error ts=2020-10-21T15:27:10.101Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:11.20397 level=info ts=2020-10-21T15:27:11.203Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:11.20456 level=info ts=2020-10-21T15:27:11.204Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:11.21205 level=info ts=2020-10-21T15:27:11.211Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:11.21335 level=error ts=2020-10-21T15:27:11.213Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:12.26902 level=info ts=2020-10-21T15:27:12.268Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:12.26932 level=info ts=2020-10-21T15:27:12.269Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:12.27005 level=info ts=2020-10-21T15:27:12.270Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:12.27595 level=error ts=2020-10-21T15:27:12.275Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:13.31737 level=info ts=2020-10-21T15:27:13.317Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:13.31768 level=info ts=2020-10-21T15:27:13.317Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:13.31837 level=info ts=2020-10-21T15:27:13.318Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:13.31959 level=error ts=2020-10-21T15:27:13.319Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:14.40055 level=info ts=2020-10-21T15:27:14.400Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:14.40096 level=info ts=2020-10-21T15:27:14.400Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:14.40641 level=info ts=2020-10-21T15:27:14.406Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:14.41009 level=error ts=2020-10-21T15:27:14.410Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:15.48743 level=info ts=2020-10-21T15:27:15.487Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:15.48770 level=info ts=2020-10-21T15:27:15.487Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:15.49423 level=info ts=2020-10-21T15:27:15.494Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:15.49792 level=error ts=2020-10-21T15:27:15.497Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:16.58189 level=info ts=2020-10-21T15:27:16.581Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:16.58320 level=info ts=2020-10-21T15:27:16.583Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:16.58380 level=info ts=2020-10-21T15:27:16.583Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:16.58533 level=error ts=2020-10-21T15:27:16.585Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:17.65631 level=info ts=2020-10-21T15:27:17.656Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:17.65636 level=info ts=2020-10-21T15:27:17.656Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:17.65712 level=info ts=2020-10-21T15:27:17.656Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:17.65780 level=error ts=2020-10-21T15:27:17.657Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:18.73998 level=info ts=2020-10-21T15:27:18.739Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:18.74002 level=info ts=2020-10-21T15:27:18.739Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:18.74102 level=info ts=2020-10-21T15:27:18.740Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:18.74190 level=error ts=2020-10-21T15:27:18.741Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:19.82605 level=info ts=2020-10-21T15:27:19.825Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:19.82615 level=info ts=2020-10-21T15:27:19.826Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:19.83362 level=info ts=2020-10-21T15:27:19.833Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:19.83974 level=error ts=2020-10-21T15:27:19.839Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:20.92204 level=info ts=2020-10-21T15:27:20.921Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:20.92208 level=info ts=2020-10-21T15:27:20.922Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:20.92369 level=info ts=2020-10-21T15:27:20.923Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:20.92436 level=error ts=2020-10-21T15:27:20.924Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:22.00666 level=info ts=2020-10-21T15:27:22.006Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:22.00684 level=info ts=2020-10-21T15:27:22.006Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:22.00786 level=info ts=2020-10-21T15:27:22.007Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:22.00922 level=error ts=2020-10-21T15:27:22.009Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:23.08750 level=info ts=2020-10-21T15:27:23.087Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:23.08754 level=info ts=2020-10-21T15:27:23.087Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:23.09671 level=info ts=2020-10-21T15:27:23.096Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:23.10371 level=error ts=2020-10-21T15:27:23.103Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:24.17759 level=info ts=2020-10-21T15:27:24.177Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:24.17763 level=info ts=2020-10-21T15:27:24.177Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:24.17848 level=info ts=2020-10-21T15:27:24.178Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:24.18047 level=error ts=2020-10-21T15:27:24.180Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:25.29579 level=info ts=2020-10-21T15:27:25.295Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:25.29582 level=info ts=2020-10-21T15:27:25.295Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:25.29646 level=info ts=2020-10-21T15:27:25.296Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:25.29721 level=error ts=2020-10-21T15:27:25.297Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:26.40327 level=info ts=2020-10-21T15:27:26.403Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:26.40329 level=info ts=2020-10-21T15:27:26.403Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:26.40394 level=info ts=2020-10-21T15:27:26.403Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:26.40646 level=error ts=2020-10-21T15:27:26.406Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:27.50068 level=info ts=2020-10-21T15:27:27.500Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:27.50101 level=info ts=2020-10-21T15:27:27.500Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:27.50166 level=info ts=2020-10-21T15:27:27.501Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:27.50800 level=error ts=2020-10-21T15:27:27.507Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:28.59673 level=info ts=2020-10-21T15:27:28.596Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:28.59701 level=info ts=2020-10-21T15:27:28.596Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:28.59773 level=info ts=2020-10-21T15:27:28.597Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:28.59875 level=error ts=2020-10-21T15:27:28.598Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:29.70415 level=info ts=2020-10-21T15:27:29.704Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:29.70445 level=info ts=2020-10-21T15:27:29.704Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:29.70515 level=info ts=2020-10-21T15:27:29.705Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:29.71188 level=error ts=2020-10-21T15:27:29.711Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:30.75194 level=info ts=2020-10-21T15:27:30.751Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:30.75199 level=info ts=2020-10-21T15:27:30.751Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:30.75286 level=info ts=2020-10-21T15:27:30.752Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:30.75875 level=error ts=2020-10-21T15:27:30.753Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:31.79660 level=info ts=2020-10-21T15:27:31.796Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:31.79668 level=info ts=2020-10-21T15:27:31.796Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:31.79733 level=info ts=2020-10-21T15:27:31.797Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:31.80338 level=error ts=2020-10-21T15:27:31.803Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:32.84146 level=info ts=2020-10-21T15:27:32.841Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:32.84154 level=info ts=2020-10-21T15:27:32.841Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:32.84292 level=info ts=2020-10-21T15:27:32.842Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:32.84385 level=error ts=2020-10-21T15:27:32.843Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:33.88974 level=info ts=2020-10-21T15:27:33.889Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:33.88993 level=info ts=2020-10-21T15:27:33.889Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:33.89089 level=info ts=2020-10-21T15:27:33.890Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:33.89638 level=error ts=2020-10-21T15:27:33.896Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:34.98645 level=info ts=2020-10-21T15:27:34.985Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:34.98648 level=info ts=2020-10-21T15:27:34.985Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:34.98730 level=info ts=2020-10-21T15:27:34.987Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:34.98813 level=error ts=2020-10-21T15:27:34.988Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:36.07434 level=info ts=2020-10-21T15:27:36.074Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:36.07473 level=info ts=2020-10-21T15:27:36.074Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:36.07593 level=info ts=2020-10-21T15:27:36.075Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:36.08157 level=error ts=2020-10-21T15:27:36.076Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:37.16787 level=info ts=2020-10-21T15:27:37.165Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:37.16789 level=info ts=2020-10-21T15:27:37.165Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:37.16790 level=info ts=2020-10-21T15:27:37.166Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:37.16909 level=error ts=2020-10-21T15:27:37.169Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:38.24785 level=info ts=2020-10-21T15:27:38.247Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:38.24816 level=info ts=2020-10-21T15:27:38.248Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:38.29315 level=info ts=2020-10-21T15:27:38.292Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:38.29553 level=error ts=2020-10-21T15:27:38.294Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:39.40207 level=info ts=2020-10-21T15:27:39.401Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:39.40210 level=info ts=2020-10-21T15:27:39.402Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:39.41041 level=info ts=2020-10-21T15:27:39.410Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:39.41141 level=error ts=2020-10-21T15:27:39.411Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:40.51197 level=info ts=2020-10-21T15:27:40.511Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:40.51233 level=info ts=2020-10-21T15:27:40.512Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:40.51320 level=info ts=2020-10-21T15:27:40.513Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:40.51426 level=error ts=2020-10-21T15:27:40.514Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:41.59287 level=info ts=2020-10-21T15:27:41.592Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:41.59327 level=info ts=2020-10-21T15:27:41.593Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:41.59395 level=info ts=2020-10-21T15:27:41.593Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:41.59552 level=error ts=2020-10-21T15:27:41.595Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:42.71800 level=info ts=2020-10-21T15:27:42.717Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:42.71834 level=info ts=2020-10-21T15:27:42.718Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:42.71908 level=info ts=2020-10-21T15:27:42.719Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:42.72052 level=error ts=2020-10-21T15:27:42.720Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:43.81038 level=info ts=2020-10-21T15:27:43.810Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:43.81079 level=info ts=2020-10-21T15:27:43.810Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:43.81163 level=info ts=2020-10-21T15:27:43.811Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:43.81345 level=error ts=2020-10-21T15:27:43.813Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:44.92393 level=info ts=2020-10-21T15:27:44.922Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:44.92396 level=info ts=2020-10-21T15:27:44.922Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:44.92397 level=info ts=2020-10-21T15:27:44.922Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:44.92397 level=error ts=2020-10-21T15:27:44.923Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:46.01874 level=info ts=2020-10-21T15:27:46.018Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:46.01885 level=info ts=2020-10-21T15:27:46.018Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:46.01968 level=info ts=2020-10-21T15:27:46.019Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:46.02062 level=error ts=2020-10-21T15:27:46.020Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:47.11060 level=info ts=2020-10-21T15:27:47.110Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:47.11099 level=info ts=2020-10-21T15:27:47.110Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:47.11184 level=info ts=2020-10-21T15:27:47.111Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:47.11496 level=error ts=2020-10-21T15:27:47.113Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:48.20955 level=info ts=2020-10-21T15:27:48.209Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:48.20983 level=info ts=2020-10-21T15:27:48.209Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:48.21052 level=info ts=2020-10-21T15:27:48.210Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:48.21123 level=error ts=2020-10-21T15:27:48.211Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:49.38320 level=info ts=2020-10-21T15:27:49.383Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:49.38324 level=info ts=2020-10-21T15:27:49.383Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:49.38398 level=info ts=2020-10-21T15:27:49.383Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:49.38476 level=error ts=2020-10-21T15:27:49.384Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:50.47628 level=info ts=2020-10-21T15:27:50.476Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:50.47824 level=info ts=2020-10-21T15:27:50.476Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:50.47958 level=info ts=2020-10-21T15:27:50.479Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:50.47960 level=error ts=2020-10-21T15:27:50.479Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:51.56459 level=info ts=2020-10-21T15:27:51.564Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:51.56462 level=info ts=2020-10-21T15:27:51.564Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:51.56540 level=info ts=2020-10-21T15:27:51.565Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:51.56773 level=error ts=2020-10-21T15:27:51.567Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:52.66292 level=info ts=2020-10-21T15:27:52.662Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:52.66295 level=info ts=2020-10-21T15:27:52.662Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:52.66384 level=info ts=2020-10-21T15:27:52.663Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:52.66483 level=error ts=2020-10-21T15:27:52.664Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:53.70277 level=info ts=2020-10-21T15:27:53.702Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:53.70280 level=info ts=2020-10-21T15:27:53.702Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:53.70351 level=info ts=2020-10-21T15:27:53.703Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:53.70406 level=error ts=2020-10-21T15:27:53.703Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:54.78806 level=info ts=2020-10-21T15:27:54.788Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:54.78818 level=info ts=2020-10-21T15:27:54.788Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:54.78886 level=info ts=2020-10-21T15:27:54.788Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:54.79017 level=error ts=2020-10-21T15:27:54.790Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:55.87737 level=info ts=2020-10-21T15:27:55.877Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:55.87751 level=info ts=2020-10-21T15:27:55.877Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:55.87830 level=info ts=2020-10-21T15:27:55.878Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:55.88489 level=error ts=2020-10-21T15:27:55.884Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:56.97798 level=info ts=2020-10-21T15:27:56.977Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:56.97802 level=info ts=2020-10-21T15:27:56.977Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:56.97866 level=info ts=2020-10-21T15:27:56.978Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:56.97927 level=error ts=2020-10-21T15:27:56.979Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:58.09937 level=info ts=2020-10-21T15:27:58.099Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:58.10015 level=info ts=2020-10-21T15:27:58.100Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:58.10187 level=info ts=2020-10-21T15:27:58.101Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:58.10245 level=error ts=2020-10-21T15:27:58.102Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:27:59.25282 level=info ts=2020-10-21T15:27:59.251Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:27:59.25285 level=info ts=2020-10-21T15:27:59.251Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:27:59.25285 level=info ts=2020-10-21T15:27:59.252Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:27:59.25286 level=error ts=2020-10-21T15:27:59.252Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:00.35576 level=info ts=2020-10-21T15:28:00.355Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:00.35579 level=info ts=2020-10-21T15:28:00.355Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:00.35673 level=info ts=2020-10-21T15:28:00.356Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:00.35750 level=error ts=2020-10-21T15:28:00.357Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:01.43660 level=info ts=2020-10-21T15:28:01.436Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:01.43693 level=info ts=2020-10-21T15:28:01.436Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:01.44442 level=info ts=2020-10-21T15:28:01.444Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:01.44522 level=error ts=2020-10-21T15:28:01.445Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:02.55012 level=info ts=2020-10-21T15:28:02.550Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:02.55041 level=info ts=2020-10-21T15:28:02.550Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:02.55127 level=info ts=2020-10-21T15:28:02.551Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:02.55213 level=error ts=2020-10-21T15:28:02.552Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:03.64139 level=info ts=2020-10-21T15:28:03.641Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:03.64162 level=info ts=2020-10-21T15:28:03.641Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:03.64932 level=info ts=2020-10-21T15:28:03.649Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:03.65170 level=error ts=2020-10-21T15:28:03.651Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:04.73959 level=info ts=2020-10-21T15:28:04.739Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:04.73969 level=info ts=2020-10-21T15:28:04.739Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:04.74125 level=info ts=2020-10-21T15:28:04.741Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:04.74182 level=error ts=2020-10-21T15:28:04.741Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:05.82485 level=info ts=2020-10-21T15:28:05.824Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:05.82501 level=info ts=2020-10-21T15:28:05.824Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:05.82554 level=info ts=2020-10-21T15:28:05.825Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:05.82664 level=error ts=2020-10-21T15:28:05.826Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:06.92282 level=info ts=2020-10-21T15:28:06.922Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:06.92286 level=info ts=2020-10-21T15:28:06.922Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:06.92356 level=info ts=2020-10-21T15:28:06.923Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:06.93209 level=error ts=2020-10-21T15:28:06.931Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:08.00759 level=info ts=2020-10-21T15:28:08.007Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:08.00774 level=info ts=2020-10-21T15:28:08.007Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:08.01411 level=info ts=2020-10-21T15:28:08.014Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:08.01905 level=error ts=2020-10-21T15:28:08.019Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:09.09805 level=info ts=2020-10-21T15:28:09.097Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:09.09809 level=info ts=2020-10-21T15:28:09.098Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:09.09882 level=info ts=2020-10-21T15:28:09.098Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:09.09981 level=error ts=2020-10-21T15:28:09.099Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:10.22396 level=info ts=2020-10-21T15:28:10.223Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:10.22405 level=info ts=2020-10-21T15:28:10.223Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:10.22574 level=info ts=2020-10-21T15:28:10.225Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:10.22641 level=error ts=2020-10-21T15:28:10.226Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:11.30500 level=info ts=2020-10-21T15:28:11.304Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:11.30502 level=info ts=2020-10-21T15:28:11.304Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:11.30641 level=info ts=2020-10-21T15:28:11.306Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:11.30735 level=error ts=2020-10-21T15:28:11.307Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:12.36351 level=info ts=2020-10-21T15:28:12.363Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:12.36355 level=info ts=2020-10-21T15:28:12.363Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:12.37217 level=info ts=2020-10-21T15:28:12.372Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:12.37464 level=error ts=2020-10-21T15:28:12.374Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:13.41494 level=info ts=2020-10-21T15:28:13.414Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:13.41497 level=info ts=2020-10-21T15:28:13.414Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:13.41562 level=info ts=2020-10-21T15:28:13.415Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:13.41634 level=error ts=2020-10-21T15:28:13.416Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:14.46241 level=info ts=2020-10-21T15:28:14.462Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:14.46244 level=info ts=2020-10-21T15:28:14.462Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:14.46329 level=info ts=2020-10-21T15:28:14.463Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:14.46403 level=error ts=2020-10-21T15:28:14.463Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:15.54383 level=info ts=2020-10-21T15:28:15.543Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:15.54386 level=info ts=2020-10-21T15:28:15.543Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:15.54468 level=info ts=2020-10-21T15:28:15.544Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:15.54577 level=error ts=2020-10-21T15:28:15.545Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:16.63798 level=info ts=2020-10-21T15:28:16.637Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:16.63818 level=info ts=2020-10-21T15:28:16.638Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:16.63876 level=info ts=2020-10-21T15:28:16.638Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:16.64619 level=error ts=2020-10-21T15:28:16.646Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:17.72908 level=info ts=2020-10-21T15:28:17.729Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:17.72939 level=info ts=2020-10-21T15:28:17.729Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:17.73856 level=info ts=2020-10-21T15:28:17.738Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:17.73952 level=error ts=2020-10-21T15:28:17.739Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:18.93179 level=info ts=2020-10-21T15:28:18.931Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:18.93182 level=info ts=2020-10-21T15:28:18.931Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:18.93256 level=info ts=2020-10-21T15:28:18.932Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:18.93473 level=error ts=2020-10-21T15:28:18.934Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:20.02483 level=info ts=2020-10-21T15:28:20.024Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:20.02501 level=info ts=2020-10-21T15:28:20.024Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:20.02557 level=info ts=2020-10-21T15:28:20.025Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:20.02612 level=error ts=2020-10-21T15:28:20.026Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:21.12594 level=info ts=2020-10-21T15:28:21.125Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:21.12597 level=info ts=2020-10-21T15:28:21.125Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:21.12670 level=info ts=2020-10-21T15:28:21.126Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:21.12732 level=error ts=2020-10-21T15:28:21.127Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:22.20019 level=info ts=2020-10-21T15:28:22.200Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:22.20023 level=info ts=2020-10-21T15:28:22.200Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:22.20106 level=info ts=2020-10-21T15:28:22.200Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:22.20717 level=error ts=2020-10-21T15:28:22.207Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:23.39839 level=info ts=2020-10-21T15:28:23.397Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:23.39842 level=info ts=2020-10-21T15:28:23.397Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:23.39842 level=info ts=2020-10-21T15:28:23.398Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:23.39895 level=error ts=2020-10-21T15:28:23.398Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:24.48249 level=info ts=2020-10-21T15:28:24.482Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:24.48258 level=info ts=2020-10-21T15:28:24.482Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:24.48315 level=info ts=2020-10-21T15:28:24.483Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:24.48649 level=error ts=2020-10-21T15:28:24.486Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:25.59542 level=info ts=2020-10-21T15:28:25.595Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:25.59545 level=info ts=2020-10-21T15:28:25.595Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:25.59613 level=info ts=2020-10-21T15:28:25.596Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:25.59705 level=error ts=2020-10-21T15:28:25.596Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:26.68106 level=info ts=2020-10-21T15:28:26.679Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:26.68108 level=info ts=2020-10-21T15:28:26.679Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:26.68108 level=info ts=2020-10-21T15:28:26.680Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:26.68109 level=error ts=2020-10-21T15:28:26.680Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:27.77418 level=info ts=2020-10-21T15:28:27.774Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:27.77432 level=info ts=2020-10-21T15:28:27.774Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:27.77489 level=info ts=2020-10-21T15:28:27.774Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:27.77542 level=error ts=2020-10-21T15:28:27.775Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:28.86097 level=info ts=2020-10-21T15:28:28.860Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:28.86108 level=info ts=2020-10-21T15:28:28.861Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:28.86157 level=info ts=2020-10-21T15:28:28.861Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:28.86782 level=error ts=2020-10-21T15:28:28.863Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:29.95339 level=info ts=2020-10-21T15:28:29.953Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:29.95366 level=info ts=2020-10-21T15:28:29.953Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:29.95772 level=info ts=2020-10-21T15:28:29.957Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:29.96172 level=error ts=2020-10-21T15:28:29.961Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:31.04224 level=info ts=2020-10-21T15:28:31.042Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:31.04226 level=info ts=2020-10-21T15:28:31.042Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:31.04298 level=info ts=2020-10-21T15:28:31.042Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:31.04464 level=error ts=2020-10-21T15:28:31.043Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:32.10832 level=info ts=2020-10-21T15:28:32.108Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:32.10838 level=info ts=2020-10-21T15:28:32.108Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:32.10932 level=info ts=2020-10-21T15:28:32.109Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:32.10989 level=error ts=2020-10-21T15:28:32.109Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:33.15079 level=info ts=2020-10-21T15:28:33.150Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:33.15082 level=info ts=2020-10-21T15:28:33.150Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:33.15164 level=info ts=2020-10-21T15:28:33.151Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:33.15530 level=error ts=2020-10-21T15:28:33.155Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:34.19578 level=info ts=2020-10-21T15:28:34.195Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:34.19582 level=info ts=2020-10-21T15:28:34.195Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:34.19650 level=info ts=2020-10-21T15:28:34.196Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:34.19714 level=error ts=2020-10-21T15:28:34.197Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:35.27422 level=info ts=2020-10-21T15:28:35.274Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:35.27435 level=info ts=2020-10-21T15:28:35.274Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:35.27870 level=info ts=2020-10-21T15:28:35.278Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:35.28171 level=error ts=2020-10-21T15:28:35.281Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:36.36550 level=info ts=2020-10-21T15:28:36.365Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:36.36579 level=info ts=2020-10-21T15:28:36.365Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:36.36638 level=info ts=2020-10-21T15:28:36.366Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:36.36699 level=error ts=2020-10-21T15:28:36.366Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:37.44648 level=info ts=2020-10-21T15:28:37.446Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:37.44672 level=info ts=2020-10-21T15:28:37.446Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:37.45388 level=info ts=2020-10-21T15:28:37.453Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:37.45544 level=error ts=2020-10-21T15:28:37.455Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:38.53021 level=info ts=2020-10-21T15:28:38.530Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:38.53047 level=info ts=2020-10-21T15:28:38.530Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:38.53214 level=info ts=2020-10-21T15:28:38.532Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:38.53283 level=error ts=2020-10-21T15:28:38.532Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:39.61975 level=info ts=2020-10-21T15:28:39.619Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:39.61992 level=info ts=2020-10-21T15:28:39.619Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:39.62635 level=info ts=2020-10-21T15:28:39.625Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:39.63008 level=error ts=2020-10-21T15:28:39.629Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:40.75729 level=info ts=2020-10-21T15:28:40.757Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:40.75732 level=info ts=2020-10-21T15:28:40.757Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:40.75826 level=info ts=2020-10-21T15:28:40.758Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:40.75946 level=error ts=2020-10-21T15:28:40.759Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:41.85671 level=info ts=2020-10-21T15:28:41.856Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:41.85682 level=info ts=2020-10-21T15:28:41.856Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:41.85736 level=info ts=2020-10-21T15:28:41.857Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:41.86263 level=error ts=2020-10-21T15:28:41.862Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:42.94563 level=info ts=2020-10-21T15:28:42.945Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:42.94628 level=info ts=2020-10-21T15:28:42.946Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:42.94677 level=info ts=2020-10-21T15:28:42.946Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:42.94771 level=error ts=2020-10-21T15:28:42.947Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:44.05413 level=info ts=2020-10-21T15:28:44.053Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:44.05540 level=info ts=2020-10-21T15:28:44.055Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:44.05755 level=info ts=2020-10-21T15:28:44.057Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:44.06471 level=error ts=2020-10-21T15:28:44.064Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:45.13813 level=info ts=2020-10-21T15:28:45.138Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:45.13825 level=info ts=2020-10-21T15:28:45.138Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:45.13876 level=info ts=2020-10-21T15:28:45.138Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:45.14382 level=error ts=2020-10-21T15:28:45.143Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:46.23115 level=info ts=2020-10-21T15:28:46.231Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:46.23128 level=info ts=2020-10-21T15:28:46.231Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:46.23837 level=info ts=2020-10-21T15:28:46.238Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:46.23917 level=error ts=2020-10-21T15:28:46.239Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:47.33667 level=info ts=2020-10-21T15:28:47.336Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:47.33670 level=info ts=2020-10-21T15:28:47.336Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:47.33743 level=info ts=2020-10-21T15:28:47.337Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:47.33822 level=error ts=2020-10-21T15:28:47.338Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:48.46724 level=info ts=2020-10-21T15:28:48.467Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:48.46747 level=info ts=2020-10-21T15:28:48.467Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:48.46820 level=info ts=2020-10-21T15:28:48.468Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:48.47376 level=error ts=2020-10-21T15:28:48.473Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:49.72202 level=info ts=2020-10-21T15:28:49.721Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:49.72222 level=info ts=2020-10-21T15:28:49.722Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:49.72298 level=info ts=2020-10-21T15:28:49.722Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:49.72387 level=error ts=2020-10-21T15:28:49.723Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:50.82892 level=info ts=2020-10-21T15:28:50.828Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:50.82910 level=info ts=2020-10-21T15:28:50.829Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:50.82969 level=info ts=2020-10-21T15:28:50.829Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:50.83024 level=error ts=2020-10-21T15:28:50.830Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:51.94195 level=info ts=2020-10-21T15:28:51.941Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:51.94210 level=info ts=2020-10-21T15:28:51.942Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:51.94372 level=info ts=2020-10-21T15:28:51.943Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:51.94432 level=error ts=2020-10-21T15:28:51.944Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:53.01794 level=info ts=2020-10-21T15:28:53.017Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:53.01809 level=info ts=2020-10-21T15:28:53.018Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:53.02401 level=info ts=2020-10-21T15:28:53.023Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:53.02482 level=error ts=2020-10-21T15:28:53.024Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:54.07894 level=info ts=2020-10-21T15:28:54.078Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:54.07905 level=info ts=2020-10-21T15:28:54.079Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:54.07958 level=info ts=2020-10-21T15:28:54.079Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:54.08020 level=error ts=2020-10-21T15:28:54.080Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:55.16820 level=info ts=2020-10-21T15:28:55.168Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:55.16832 level=info ts=2020-10-21T15:28:55.168Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:55.16910 level=info ts=2020-10-21T15:28:55.169Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:55.17100 level=error ts=2020-10-21T15:28:55.170Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:56.26667 level=info ts=2020-10-21T15:28:56.266Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:56.26699 level=info ts=2020-10-21T15:28:56.266Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:56.27444 level=info ts=2020-10-21T15:28:56.274Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:56.27532 level=error ts=2020-10-21T15:28:56.275Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:57.36152 level=info ts=2020-10-21T15:28:57.361Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:57.36164 level=info ts=2020-10-21T15:28:57.361Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:57.36222 level=info ts=2020-10-21T15:28:57.362Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:57.36341 level=error ts=2020-10-21T15:28:57.363Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:58.45783 level=info ts=2020-10-21T15:28:58.457Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:58.45788 level=info ts=2020-10-21T15:28:58.457Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:58.45860 level=info ts=2020-10-21T15:28:58.458Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:58.45959 level=error ts=2020-10-21T15:28:58.459Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:28:59.53672 level=info ts=2020-10-21T15:28:59.536Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:28:59.53693 level=info ts=2020-10-21T15:28:59.536Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:28:59.53751 level=info ts=2020-10-21T15:28:59.537Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:28:59.53869 level=error ts=2020-10-21T15:28:59.538Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:00.63173 level=info ts=2020-10-21T15:29:00.631Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:00.63177 level=info ts=2020-10-21T15:29:00.631Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:00.63261 level=info ts=2020-10-21T15:29:00.632Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:00.63351 level=error ts=2020-10-21T15:29:00.633Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:01.72577 level=info ts=2020-10-21T15:29:01.725Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:01.72605 level=info ts=2020-10-21T15:29:01.726Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:01.72678 level=info ts=2020-10-21T15:29:01.726Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:01.73304 level=error ts=2020-10-21T15:29:01.732Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:02.81946 level=info ts=2020-10-21T15:29:02.819Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:02.81949 level=info ts=2020-10-21T15:29:02.819Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:02.82006 level=info ts=2020-10-21T15:29:02.820Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:02.82074 level=error ts=2020-10-21T15:29:02.820Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:03.89424 level=info ts=2020-10-21T15:29:03.894Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:03.89464 level=info ts=2020-10-21T15:29:03.894Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:03.90390 level=info ts=2020-10-21T15:29:03.902Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:03.90392 level=error ts=2020-10-21T15:29:03.903Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:04.98422 level=info ts=2020-10-21T15:29:04.984Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:04.98445 level=info ts=2020-10-21T15:29:04.984Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:04.98599 level=info ts=2020-10-21T15:29:04.985Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:04.99230 level=error ts=2020-10-21T15:29:04.992Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:06.08035 level=info ts=2020-10-21T15:29:06.080Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:06.08040 level=info ts=2020-10-21T15:29:06.080Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:06.08122 level=info ts=2020-10-21T15:29:06.081Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:06.08831 level=error ts=2020-10-21T15:29:06.088Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:07.16207 level=info ts=2020-10-21T15:29:07.162Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:07.16219 level=info ts=2020-10-21T15:29:07.162Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:07.16276 level=info ts=2020-10-21T15:29:07.162Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:07.17066 level=error ts=2020-10-21T15:29:07.170Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:08.25509 level=info ts=2020-10-21T15:29:08.255Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:08.25517 level=info ts=2020-10-21T15:29:08.255Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:08.25779 level=info ts=2020-10-21T15:29:08.257Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:08.25911 level=error ts=2020-10-21T15:29:08.259Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:09.37361 level=info ts=2020-10-21T15:29:09.373Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:09.37372 level=info ts=2020-10-21T15:29:09.373Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:09.37444 level=info ts=2020-10-21T15:29:09.374Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:09.37591 level=error ts=2020-10-21T15:29:09.375Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:10.46669 level=info ts=2020-10-21T15:29:10.466Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:10.46674 level=info ts=2020-10-21T15:29:10.466Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:10.46746 level=info ts=2020-10-21T15:29:10.467Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:10.46861 level=error ts=2020-10-21T15:29:10.468Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:11.54791 level=info ts=2020-10-21T15:29:11.547Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:11.54795 level=info ts=2020-10-21T15:29:11.547Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:11.54961 level=info ts=2020-10-21T15:29:11.549Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:11.55065 level=error ts=2020-10-21T15:29:11.550Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:12.59000 level=info ts=2020-10-21T15:29:12.589Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:12.59013 level=info ts=2020-10-21T15:29:12.590Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:12.59082 level=info ts=2020-10-21T15:29:12.590Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:12.59207 level=error ts=2020-10-21T15:29:12.591Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:13.63083 level=info ts=2020-10-21T15:29:13.630Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:13.63094 level=info ts=2020-10-21T15:29:13.630Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:13.63154 level=info ts=2020-10-21T15:29:13.631Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:13.63215 level=error ts=2020-10-21T15:29:13.632Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:14.68432 level=info ts=2020-10-21T15:29:14.684Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:14.68464 level=info ts=2020-10-21T15:29:14.684Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:14.69265 level=info ts=2020-10-21T15:29:14.691Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:14.69275 level=error ts=2020-10-21T15:29:14.692Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:15.79317 level=info ts=2020-10-21T15:29:15.793Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:15.79399 level=info ts=2020-10-21T15:29:15.793Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:15.79460 level=info ts=2020-10-21T15:29:15.794Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:15.79616 level=error ts=2020-10-21T15:29:15.796Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"
+2020-10-21_15:29:16.88016 level=info ts=2020-10-21T15:29:16.880Z caller=main.go:216 msg="Starting Alertmanager" version="(version=0.21.0, branch=master, revision=)"
+2020-10-21_15:29:16.88041 level=info ts=2020-10-21T15:29:16.880Z caller=main.go:217 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:29:16.88113 level=info ts=2020-10-21T15:29:16.880Z caller=cluster.go:161 component=cluster msg="setting advertise address explicitly" addr=192.168.144.5 port=9094
+2020-10-21_15:29:16.88710 level=error ts=2020-10-21T15:29:16.881Z caller=main.go:261 err="open /var/opt/gitlab/alertmanager/data/nflog: permission denied"

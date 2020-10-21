@@ -4792,3 +4792,858 @@
 {"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:25Z","wrapper":46964}
 {"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:25Z","wrapper":46964}
 {"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:25Z","wrapper":46964}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:26Z","wrapper":46994}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:26Z","wrapper":46994}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:26Z","wrapper":46994}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:27Z","wrapper":47023}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:27Z","wrapper":47023}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:27Z","wrapper":47023}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:28Z","wrapper":47059}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:28Z","wrapper":47059}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:28Z","wrapper":47059}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:29Z","wrapper":47095}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:29Z","wrapper":47095}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:29Z","wrapper":47095}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:30Z","wrapper":47128}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:30Z","wrapper":47128}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:30Z","wrapper":47128}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:31Z","wrapper":47164}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:31Z","wrapper":47164}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:31Z","wrapper":47164}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:32Z","wrapper":47201}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:32Z","wrapper":47201}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:32Z","wrapper":47201}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:33Z","wrapper":47238}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:33Z","wrapper":47238}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:33Z","wrapper":47238}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:34Z","wrapper":47266}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:34Z","wrapper":47266}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:34Z","wrapper":47266}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:35Z","wrapper":47290}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:35Z","wrapper":47290}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:35Z","wrapper":47290}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:36Z","wrapper":47319}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:36Z","wrapper":47319}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:36Z","wrapper":47319}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:37Z","wrapper":47359}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:37Z","wrapper":47359}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:37Z","wrapper":47359}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:38Z","wrapper":47384}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:38Z","wrapper":47384}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:38Z","wrapper":47384}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:39Z","wrapper":47409}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:39Z","wrapper":47409}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:39Z","wrapper":47409}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:40Z","wrapper":47440}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:40Z","wrapper":47440}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:40Z","wrapper":47440}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:41Z","wrapper":47471}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:41Z","wrapper":47471}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:41Z","wrapper":47471}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:42Z","wrapper":47501}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:42Z","wrapper":47501}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:42Z","wrapper":47501}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:43Z","wrapper":47534}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:43Z","wrapper":47534}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:43Z","wrapper":47534}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:44Z","wrapper":47566}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:44Z","wrapper":47566}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:44Z","wrapper":47566}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:45Z","wrapper":47596}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:45Z","wrapper":47596}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:45Z","wrapper":47596}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:46Z","wrapper":47626}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:46Z","wrapper":47626}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:46Z","wrapper":47626}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:47Z","wrapper":47654}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:47Z","wrapper":47654}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:47Z","wrapper":47654}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:48Z","wrapper":47685}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:48Z","wrapper":47685}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:48Z","wrapper":47685}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:49Z","wrapper":47722}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:49Z","wrapper":47722}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:49Z","wrapper":47722}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:50Z","wrapper":47759}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:50Z","wrapper":47759}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:50Z","wrapper":47759}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:51Z","wrapper":47796}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:51Z","wrapper":47796}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:51Z","wrapper":47796}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:52Z","wrapper":47835}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:52Z","wrapper":47835}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:52Z","wrapper":47835}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:53Z","wrapper":47860}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:53Z","wrapper":47860}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:53Z","wrapper":47860}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:54Z","wrapper":47891}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:54Z","wrapper":47891}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:54Z","wrapper":47891}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:55Z","wrapper":47920}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:55Z","wrapper":47920}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:55Z","wrapper":47920}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:56Z","wrapper":47944}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:56Z","wrapper":47944}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:56Z","wrapper":47944}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:57Z","wrapper":47975}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:57Z","wrapper":47975}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:57Z","wrapper":47975}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:24:59Z","wrapper":48010}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:24:59Z","wrapper":48010}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:24:59Z","wrapper":48010}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:00Z","wrapper":48036}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:00Z","wrapper":48036}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:00Z","wrapper":48036}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:01Z","wrapper":48063}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:01Z","wrapper":48063}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:01Z","wrapper":48063}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:02Z","wrapper":48094}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:02Z","wrapper":48094}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:02Z","wrapper":48094}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:03Z","wrapper":48123}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:03Z","wrapper":48123}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:03Z","wrapper":48123}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:04Z","wrapper":48154}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:04Z","wrapper":48154}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:04Z","wrapper":48154}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:05Z","wrapper":48184}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:05Z","wrapper":48184}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:05Z","wrapper":48184}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:06Z","wrapper":48215}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:06Z","wrapper":48215}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:06Z","wrapper":48215}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:07Z","wrapper":48247}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:07Z","wrapper":48247}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:07Z","wrapper":48247}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:08Z","wrapper":48277}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:08Z","wrapper":48277}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:08Z","wrapper":48277}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:09Z","wrapper":48301}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:09Z","wrapper":48301}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:09Z","wrapper":48301}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:10Z","wrapper":48326}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:10Z","wrapper":48326}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:10Z","wrapper":48326}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:11Z","wrapper":48357}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:11Z","wrapper":48357}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:11Z","wrapper":48357}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:12Z","wrapper":48391}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:12Z","wrapper":48391}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:12Z","wrapper":48391}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:13Z","wrapper":48433}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:13Z","wrapper":48433}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:13Z","wrapper":48433}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:14Z","wrapper":48457}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:14Z","wrapper":48457}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:14Z","wrapper":48457}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:15Z","wrapper":48487}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:15Z","wrapper":48487}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:15Z","wrapper":48487}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:16Z","wrapper":48520}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:16Z","wrapper":48520}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:16Z","wrapper":48520}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:17Z","wrapper":48551}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:17Z","wrapper":48551}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:17Z","wrapper":48551}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:18Z","wrapper":48579}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:18Z","wrapper":48579}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:18Z","wrapper":48579}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:19Z","wrapper":48603}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:19Z","wrapper":48603}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:19Z","wrapper":48603}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:20Z","wrapper":48635}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:20Z","wrapper":48635}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:20Z","wrapper":48635}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:21Z","wrapper":48665}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:21Z","wrapper":48665}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:21Z","wrapper":48665}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:22Z","wrapper":48695}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:22Z","wrapper":48695}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:22Z","wrapper":48695}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:23Z","wrapper":48726}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:23Z","wrapper":48726}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:23Z","wrapper":48726}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:24Z","wrapper":48757}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:24Z","wrapper":48757}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:24Z","wrapper":48757}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:25Z","wrapper":48782}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:25Z","wrapper":48782}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:25Z","wrapper":48782}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:26Z","wrapper":48809}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:26Z","wrapper":48809}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:26Z","wrapper":48809}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:27Z","wrapper":48834}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:27Z","wrapper":48834}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:27Z","wrapper":48834}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:28Z","wrapper":48864}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:28Z","wrapper":48864}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:28Z","wrapper":48864}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:29Z","wrapper":48893}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:29Z","wrapper":48893}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:29Z","wrapper":48893}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:30Z","wrapper":48924}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:30Z","wrapper":48924}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:30Z","wrapper":48924}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:31Z","wrapper":48958}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:31Z","wrapper":48958}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:31Z","wrapper":48958}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:32Z","wrapper":49000}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:32Z","wrapper":49000}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:32Z","wrapper":49000}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:33Z","wrapper":49039}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:33Z","wrapper":49039}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:33Z","wrapper":49039}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:34Z","wrapper":49069}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:34Z","wrapper":49069}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:34Z","wrapper":49069}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:35Z","wrapper":49094}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:35Z","wrapper":49094}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:35Z","wrapper":49094}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:36Z","wrapper":49123}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:36Z","wrapper":49123}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:36Z","wrapper":49123}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:37Z","wrapper":49145}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:37Z","wrapper":49145}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:37Z","wrapper":49145}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:38Z","wrapper":49175}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:38Z","wrapper":49175}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:38Z","wrapper":49175}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:39Z","wrapper":49199}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:39Z","wrapper":49199}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:39Z","wrapper":49199}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:40Z","wrapper":49228}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:40Z","wrapper":49228}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:40Z","wrapper":49228}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:41Z","wrapper":49257}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:41Z","wrapper":49257}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:41Z","wrapper":49257}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:42Z","wrapper":49285}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:42Z","wrapper":49285}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:42Z","wrapper":49285}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:43Z","wrapper":49315}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:43Z","wrapper":49315}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:43Z","wrapper":49315}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:44Z","wrapper":49346}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:44Z","wrapper":49346}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:44Z","wrapper":49346}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:45Z","wrapper":49377}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:45Z","wrapper":49377}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:45Z","wrapper":49377}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:46Z","wrapper":49406}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:46Z","wrapper":49406}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:46Z","wrapper":49406}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:47Z","wrapper":49429}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:47Z","wrapper":49429}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:47Z","wrapper":49429}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:49Z","wrapper":49468}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:49Z","wrapper":49468}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:49Z","wrapper":49468}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:50Z","wrapper":49505}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:50Z","wrapper":49505}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:50Z","wrapper":49505}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:51Z","wrapper":49540}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:51Z","wrapper":49540}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:51Z","wrapper":49540}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:52Z","wrapper":49574}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:52Z","wrapper":49574}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:52Z","wrapper":49574}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:53Z","wrapper":49611}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:53Z","wrapper":49611}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:53Z","wrapper":49611}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:54Z","wrapper":49649}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:54Z","wrapper":49649}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:54Z","wrapper":49649}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:55Z","wrapper":49679}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:55Z","wrapper":49679}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:55Z","wrapper":49679}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:56Z","wrapper":49707}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:56Z","wrapper":49707}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:56Z","wrapper":49707}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:57Z","wrapper":49733}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:57Z","wrapper":49733}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:57Z","wrapper":49733}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:58Z","wrapper":49763}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:58Z","wrapper":49763}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:58Z","wrapper":49763}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:25:59Z","wrapper":49784}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:25:59Z","wrapper":49784}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:25:59Z","wrapper":49784}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:00Z","wrapper":49808}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:00Z","wrapper":49808}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:00Z","wrapper":49808}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:01Z","wrapper":49839}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:01Z","wrapper":49839}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:01Z","wrapper":49839}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:02Z","wrapper":49869}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:02Z","wrapper":49869}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:02Z","wrapper":49869}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:03Z","wrapper":49900}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:03Z","wrapper":49900}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:03Z","wrapper":49900}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:04Z","wrapper":49933}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:04Z","wrapper":49933}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:04Z","wrapper":49933}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:05Z","wrapper":49968}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:05Z","wrapper":49968}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:05Z","wrapper":49968}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:06Z","wrapper":49998}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:06Z","wrapper":49998}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:06Z","wrapper":49998}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:07Z","wrapper":50028}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:07Z","wrapper":50028}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:07Z","wrapper":50028}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:08Z","wrapper":50054}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:08Z","wrapper":50054}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:08Z","wrapper":50054}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:09Z","wrapper":50085}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:09Z","wrapper":50085}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:09Z","wrapper":50085}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:10Z","wrapper":50116}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:10Z","wrapper":50116}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:10Z","wrapper":50116}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:11Z","wrapper":50153}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:11Z","wrapper":50153}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:11Z","wrapper":50153}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:12Z","wrapper":50190}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:12Z","wrapper":50190}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:12Z","wrapper":50190}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:13Z","wrapper":50221}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:13Z","wrapper":50221}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:13Z","wrapper":50221}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:14Z","wrapper":50259}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:14Z","wrapper":50259}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:14Z","wrapper":50259}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:15Z","wrapper":50290}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:15Z","wrapper":50290}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:15Z","wrapper":50290}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:16Z","wrapper":50320}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:16Z","wrapper":50320}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:16Z","wrapper":50320}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:17Z","wrapper":50351}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:17Z","wrapper":50351}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:17Z","wrapper":50351}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:18Z","wrapper":50380}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:18Z","wrapper":50380}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:18Z","wrapper":50380}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:19Z","wrapper":50415}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:19Z","wrapper":50415}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:19Z","wrapper":50415}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:20Z","wrapper":50439}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:20Z","wrapper":50439}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:20Z","wrapper":50439}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:21Z","wrapper":50470}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:21Z","wrapper":50470}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:21Z","wrapper":50470}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:22Z","wrapper":50499}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:22Z","wrapper":50499}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:22Z","wrapper":50499}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:23Z","wrapper":50529}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:23Z","wrapper":50529}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:23Z","wrapper":50529}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:24Z","wrapper":50557}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:24Z","wrapper":50557}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:24Z","wrapper":50557}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:25Z","wrapper":50587}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:25Z","wrapper":50587}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:25Z","wrapper":50587}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:26Z","wrapper":50616}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:26Z","wrapper":50616}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:26Z","wrapper":50616}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:27Z","wrapper":50640}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:27Z","wrapper":50640}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:27Z","wrapper":50640}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:28Z","wrapper":50668}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:28Z","wrapper":50668}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:28Z","wrapper":50668}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:29Z","wrapper":50701}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:29Z","wrapper":50701}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:29Z","wrapper":50701}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:30Z","wrapper":50732}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:30Z","wrapper":50732}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:30Z","wrapper":50732}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:31Z","wrapper":50756}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:31Z","wrapper":50756}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:31Z","wrapper":50756}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:32Z","wrapper":50791}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:32Z","wrapper":50791}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:32Z","wrapper":50791}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:33Z","wrapper":50831}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:33Z","wrapper":50831}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:33Z","wrapper":50831}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:34Z","wrapper":50867}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:34Z","wrapper":50867}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:34Z","wrapper":50867}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:35Z","wrapper":50899}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:35Z","wrapper":50899}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:35Z","wrapper":50899}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:36Z","wrapper":50928}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:36Z","wrapper":50928}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:36Z","wrapper":50928}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:37Z","wrapper":50958}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:37Z","wrapper":50958}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:37Z","wrapper":50958}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:38Z","wrapper":50988}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:38Z","wrapper":50988}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:38Z","wrapper":50988}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:39Z","wrapper":51018}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:39Z","wrapper":51018}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:39Z","wrapper":51018}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:40Z","wrapper":51046}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:40Z","wrapper":51046}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:40Z","wrapper":51046}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:42Z","wrapper":51073}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:42Z","wrapper":51073}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:42Z","wrapper":51073}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:43Z","wrapper":51104}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:43Z","wrapper":51104}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:43Z","wrapper":51104}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:44Z","wrapper":51132}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:44Z","wrapper":51132}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:44Z","wrapper":51132}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:45Z","wrapper":51157}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:45Z","wrapper":51157}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:45Z","wrapper":51157}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:46Z","wrapper":51185}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:46Z","wrapper":51185}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:46Z","wrapper":51185}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:47Z","wrapper":51215}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:47Z","wrapper":51215}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:47Z","wrapper":51215}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:48Z","wrapper":51246}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:48Z","wrapper":51246}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:48Z","wrapper":51246}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:49Z","wrapper":51286}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:49Z","wrapper":51286}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:49Z","wrapper":51286}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:50Z","wrapper":51323}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:50Z","wrapper":51323}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:50Z","wrapper":51323}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:51Z","wrapper":51360}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:51Z","wrapper":51360}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:51Z","wrapper":51360}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:52Z","wrapper":51395}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:52Z","wrapper":51395}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:52Z","wrapper":51395}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:53Z","wrapper":51423}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:53Z","wrapper":51423}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:53Z","wrapper":51423}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:54Z","wrapper":51452}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:54Z","wrapper":51452}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:54Z","wrapper":51452}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:55Z","wrapper":51480}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:55Z","wrapper":51480}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:55Z","wrapper":51480}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:56Z","wrapper":51512}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:56Z","wrapper":51512}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:56Z","wrapper":51512}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:57Z","wrapper":51542}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:57Z","wrapper":51542}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:57Z","wrapper":51542}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:58Z","wrapper":51572}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:58Z","wrapper":51572}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:58Z","wrapper":51572}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:26:59Z","wrapper":51602}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:26:59Z","wrapper":51602}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:26:59Z","wrapper":51602}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:00Z","wrapper":51633}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:00Z","wrapper":51633}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:00Z","wrapper":51633}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:01Z","wrapper":51663}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:01Z","wrapper":51663}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:01Z","wrapper":51663}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:02Z","wrapper":51691}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:02Z","wrapper":51691}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:02Z","wrapper":51691}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:03Z","wrapper":51722}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:03Z","wrapper":51722}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:03Z","wrapper":51722}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:04Z","wrapper":51743}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:04Z","wrapper":51743}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:04Z","wrapper":51743}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:05Z","wrapper":51777}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:05Z","wrapper":51777}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:05Z","wrapper":51777}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:06Z","wrapper":51809}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:06Z","wrapper":51809}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:06Z","wrapper":51809}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:07Z","wrapper":51838}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:07Z","wrapper":51838}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:07Z","wrapper":51838}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:08Z","wrapper":51868}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:08Z","wrapper":51868}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:08Z","wrapper":51868}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:09Z","wrapper":51900}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:09Z","wrapper":51900}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:09Z","wrapper":51900}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:10Z","wrapper":51931}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:10Z","wrapper":51931}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:10Z","wrapper":51931}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:11Z","wrapper":51962}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:11Z","wrapper":51962}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:11Z","wrapper":51962}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:12Z","wrapper":51998}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:12Z","wrapper":51998}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:12Z","wrapper":51998}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:13Z","wrapper":52031}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:13Z","wrapper":52031}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:13Z","wrapper":52031}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:14Z","wrapper":52061}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:14Z","wrapper":52061}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:14Z","wrapper":52061}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:15Z","wrapper":52091}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:15Z","wrapper":52091}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:15Z","wrapper":52091}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:16Z","wrapper":52119}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:16Z","wrapper":52119}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:16Z","wrapper":52119}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:17Z","wrapper":52148}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:17Z","wrapper":52148}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:17Z","wrapper":52148}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:18Z","wrapper":52171}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:18Z","wrapper":52171}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:18Z","wrapper":52171}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:19Z","wrapper":52200}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:19Z","wrapper":52200}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:19Z","wrapper":52200}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:20Z","wrapper":52227}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:20Z","wrapper":52227}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:20Z","wrapper":52227}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:21Z","wrapper":52256}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:21Z","wrapper":52256}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:21Z","wrapper":52256}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:22Z","wrapper":52289}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:22Z","wrapper":52289}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:22Z","wrapper":52289}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:23Z","wrapper":52316}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:23Z","wrapper":52316}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:23Z","wrapper":52316}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:24Z","wrapper":52345}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:24Z","wrapper":52345}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:24Z","wrapper":52345}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:25Z","wrapper":52375}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:25Z","wrapper":52375}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:25Z","wrapper":52375}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:26Z","wrapper":52404}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:26Z","wrapper":52404}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:26Z","wrapper":52404}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:28Z","wrapper":52435}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:28Z","wrapper":52435}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:28Z","wrapper":52435}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:29Z","wrapper":52465}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:29Z","wrapper":52465}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:29Z","wrapper":52465}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:30Z","wrapper":52495}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:30Z","wrapper":52495}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:30Z","wrapper":52495}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:31Z","wrapper":52530}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:31Z","wrapper":52530}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:31Z","wrapper":52530}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:32Z","wrapper":52566}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:32Z","wrapper":52566}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:32Z","wrapper":52566}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:33Z","wrapper":52603}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:33Z","wrapper":52603}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:33Z","wrapper":52603}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:34Z","wrapper":52637}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:34Z","wrapper":52637}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:34Z","wrapper":52637}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:35Z","wrapper":52669}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:35Z","wrapper":52669}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:35Z","wrapper":52669}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:36Z","wrapper":52700}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:36Z","wrapper":52700}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:36Z","wrapper":52700}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:37Z","wrapper":52734}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:37Z","wrapper":52734}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:37Z","wrapper":52734}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:38Z","wrapper":52759}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:38Z","wrapper":52759}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:38Z","wrapper":52759}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:39Z","wrapper":52789}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:39Z","wrapper":52789}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:39Z","wrapper":52789}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:40Z","wrapper":52818}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:40Z","wrapper":52818}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:40Z","wrapper":52818}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:41Z","wrapper":52846}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:41Z","wrapper":52846}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:41Z","wrapper":52846}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:42Z","wrapper":52871}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:42Z","wrapper":52871}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:42Z","wrapper":52871}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:43Z","wrapper":52901}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:43Z","wrapper":52901}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:43Z","wrapper":52901}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:44Z","wrapper":52931}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:44Z","wrapper":52931}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:44Z","wrapper":52931}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:45Z","wrapper":52955}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:45Z","wrapper":52955}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:45Z","wrapper":52955}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:46Z","wrapper":52986}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:46Z","wrapper":52986}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:46Z","wrapper":52986}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:47Z","wrapper":53016}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:47Z","wrapper":53016}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:47Z","wrapper":53016}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:48Z","wrapper":53046}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:48Z","wrapper":53046}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:48Z","wrapper":53046}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:49Z","wrapper":53083}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:49Z","wrapper":53083}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:49Z","wrapper":53083}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:50Z","wrapper":53113}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:50Z","wrapper":53113}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:50Z","wrapper":53113}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:51Z","wrapper":53136}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:51Z","wrapper":53136}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:51Z","wrapper":53136}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:52Z","wrapper":53167}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:52Z","wrapper":53167}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:52Z","wrapper":53167}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:53Z","wrapper":53199}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:53Z","wrapper":53199}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:53Z","wrapper":53199}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:54Z","wrapper":53231}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:54Z","wrapper":53231}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:54Z","wrapper":53231}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:55Z","wrapper":53267}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:55Z","wrapper":53267}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:55Z","wrapper":53267}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:56Z","wrapper":53299}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:56Z","wrapper":53299}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:56Z","wrapper":53299}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:57Z","wrapper":53328}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:57Z","wrapper":53328}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:57Z","wrapper":53328}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:58Z","wrapper":53357}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:58Z","wrapper":53357}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:58Z","wrapper":53357}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:27:59Z","wrapper":53387}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:27:59Z","wrapper":53387}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:27:59Z","wrapper":53387}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:00Z","wrapper":53418}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:00Z","wrapper":53418}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:00Z","wrapper":53418}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:01Z","wrapper":53448}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:01Z","wrapper":53448}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:01Z","wrapper":53448}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:02Z","wrapper":53476}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:02Z","wrapper":53476}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:02Z","wrapper":53476}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:03Z","wrapper":53494}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:03Z","wrapper":53494}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:03Z","wrapper":53494}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:04Z","wrapper":53524}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:04Z","wrapper":53524}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:04Z","wrapper":53524}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:05Z","wrapper":53554}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:05Z","wrapper":53554}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:05Z","wrapper":53554}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:06Z","wrapper":53578}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:06Z","wrapper":53578}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:06Z","wrapper":53578}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:07Z","wrapper":53607}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:07Z","wrapper":53607}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:07Z","wrapper":53607}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:08Z","wrapper":53636}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:08Z","wrapper":53636}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:08Z","wrapper":53636}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:09Z","wrapper":53666}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:09Z","wrapper":53666}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:09Z","wrapper":53666}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:10Z","wrapper":53697}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:10Z","wrapper":53697}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:10Z","wrapper":53697}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:11Z","wrapper":53729}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:11Z","wrapper":53729}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:11Z","wrapper":53729}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:12Z","wrapper":53770}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:12Z","wrapper":53770}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:12Z","wrapper":53770}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:13Z","wrapper":53798}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:13Z","wrapper":53798}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:13Z","wrapper":53798}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:14Z","wrapper":53842}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:14Z","wrapper":53842}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:14Z","wrapper":53842}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:15Z","wrapper":53871}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:15Z","wrapper":53871}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:15Z","wrapper":53871}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:16Z","wrapper":53902}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:16Z","wrapper":53902}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:16Z","wrapper":53902}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:18Z","wrapper":53931}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:18Z","wrapper":53931}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:18Z","wrapper":53931}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:19Z","wrapper":53962}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:19Z","wrapper":53962}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:19Z","wrapper":53962}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:20Z","wrapper":53991}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:20Z","wrapper":53991}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:20Z","wrapper":53991}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:21Z","wrapper":54020}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:21Z","wrapper":54020}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:21Z","wrapper":54020}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:22Z","wrapper":54044}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:22Z","wrapper":54044}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:22Z","wrapper":54044}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:23Z","wrapper":54067}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:23Z","wrapper":54067}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:23Z","wrapper":54067}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:24Z","wrapper":54097}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:24Z","wrapper":54097}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:24Z","wrapper":54097}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:25Z","wrapper":54121}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:25Z","wrapper":54121}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:25Z","wrapper":54121}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:26Z","wrapper":54151}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:26Z","wrapper":54151}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:26Z","wrapper":54151}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:27Z","wrapper":54181}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:27Z","wrapper":54181}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:27Z","wrapper":54181}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:28Z","wrapper":54209}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:28Z","wrapper":54209}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:28Z","wrapper":54209}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:29Z","wrapper":54239}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:29Z","wrapper":54239}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:29Z","wrapper":54239}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:30Z","wrapper":54273}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:30Z","wrapper":54273}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:30Z","wrapper":54273}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:31Z","wrapper":54298}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:31Z","wrapper":54298}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:31Z","wrapper":54298}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:32Z","wrapper":54329}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:32Z","wrapper":54329}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:32Z","wrapper":54329}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:33Z","wrapper":54361}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:33Z","wrapper":54361}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:33Z","wrapper":54361}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:34Z","wrapper":54398}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:34Z","wrapper":54398}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:34Z","wrapper":54398}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:35Z","wrapper":54439}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:35Z","wrapper":54439}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:35Z","wrapper":54439}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:36Z","wrapper":54470}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:36Z","wrapper":54470}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:36Z","wrapper":54470}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:37Z","wrapper":54499}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:37Z","wrapper":54499}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:37Z","wrapper":54499}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:38Z","wrapper":54525}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:38Z","wrapper":54525}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:38Z","wrapper":54525}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:39Z","wrapper":54555}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:39Z","wrapper":54555}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:39Z","wrapper":54555}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:40Z","wrapper":54584}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:40Z","wrapper":54584}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:40Z","wrapper":54584}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:41Z","wrapper":54608}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:41Z","wrapper":54608}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:41Z","wrapper":54608}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:42Z","wrapper":54635}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:42Z","wrapper":54635}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:42Z","wrapper":54635}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:43Z","wrapper":54664}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:43Z","wrapper":54664}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:43Z","wrapper":54664}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:44Z","wrapper":54694}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:44Z","wrapper":54694}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:44Z","wrapper":54694}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:45Z","wrapper":54728}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:45Z","wrapper":54728}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:45Z","wrapper":54728}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:46Z","wrapper":54759}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:46Z","wrapper":54759}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:46Z","wrapper":54759}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:47Z","wrapper":54788}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:47Z","wrapper":54788}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:47Z","wrapper":54788}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:48Z","wrapper":54813}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:48Z","wrapper":54813}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:48Z","wrapper":54813}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:49Z","wrapper":54848}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:49Z","wrapper":54848}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:49Z","wrapper":54848}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:50Z","wrapper":54868}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:50Z","wrapper":54868}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:50Z","wrapper":54868}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:51Z","wrapper":54899}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:51Z","wrapper":54899}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:51Z","wrapper":54899}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:52Z","wrapper":54930}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:52Z","wrapper":54930}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:52Z","wrapper":54930}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:53Z","wrapper":54964}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:53Z","wrapper":54964}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:53Z","wrapper":54964}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:54Z","wrapper":54999}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:54Z","wrapper":54999}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:54Z","wrapper":54999}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:55Z","wrapper":55039}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:55Z","wrapper":55039}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:55Z","wrapper":55039}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:56Z","wrapper":55070}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:56Z","wrapper":55070}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:56Z","wrapper":55070}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:57Z","wrapper":55098}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:57Z","wrapper":55098}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:57Z","wrapper":55098}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:58Z","wrapper":55126}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:58Z","wrapper":55126}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:58Z","wrapper":55126}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:28:59Z","wrapper":55150}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:28:59Z","wrapper":55150}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:28:59Z","wrapper":55150}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:00Z","wrapper":55180}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:00Z","wrapper":55180}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:00Z","wrapper":55180}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:01Z","wrapper":55208}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:01Z","wrapper":55208}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:01Z","wrapper":55208}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:02Z","wrapper":55244}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:02Z","wrapper":55244}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:02Z","wrapper":55244}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:03Z","wrapper":55273}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:03Z","wrapper":55273}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:03Z","wrapper":55273}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:05Z","wrapper":55303}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:05Z","wrapper":55303}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:05Z","wrapper":55303}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:06Z","wrapper":55328}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:06Z","wrapper":55328}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:06Z","wrapper":55328}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:07Z","wrapper":55356}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:07Z","wrapper":55356}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:07Z","wrapper":55356}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:08Z","wrapper":55387}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:08Z","wrapper":55387}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:08Z","wrapper":55387}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:09Z","wrapper":55416}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:09Z","wrapper":55416}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:09Z","wrapper":55416}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:10Z","wrapper":55443}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:10Z","wrapper":55443}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:10Z","wrapper":55443}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:11Z","wrapper":55473}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:11Z","wrapper":55473}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:11Z","wrapper":55473}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:12Z","wrapper":55501}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:12Z","wrapper":55501}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:12Z","wrapper":55501}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:13Z","wrapper":55527}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:13Z","wrapper":55527}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:13Z","wrapper":55527}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:14Z","wrapper":55564}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:14Z","wrapper":55564}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:14Z","wrapper":55564}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:15Z","wrapper":55598}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:15Z","wrapper":55598}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:15Z","wrapper":55598}
+{"level":"info","msg":"Wrapper started","time":"2020-10-21T15:29:16Z","wrapper":55638}
+{"level":"info","msg":"finding gitaly","pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2020-10-21T15:29:16Z","wrapper":55638}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: permission denied","level":"fatal","msg":"find gitaly","time":"2020-10-21T15:29:16Z","wrapper":55638}
