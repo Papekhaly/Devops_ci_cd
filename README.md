@@ -4,3 +4,4 @@ M2 cours DevOps
 Mina Bekhit 
 Maeva Champrigaud
 Papekhaly Faye
+Edouard Anthony
