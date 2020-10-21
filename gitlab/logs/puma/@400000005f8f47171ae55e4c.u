@@ -1,0 +1,13 @@
+2020-10-20_20:16:46.83491 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"Puma starting in cluster mode..."}
+2020-10-20_20:16:46.83494 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"* Version 4.3.5.gitlab.3 (ruby 2.6.6-p146), codename: Mysterious Traveller"}
+2020-10-20_20:16:46.83495 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"* Min threads: 4, max threads: 4"}
+2020-10-20_20:16:46.83495 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"* Environment: production"}
+2020-10-20_20:16:46.83495 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"* Process workers: 2"}
+2020-10-20_20:16:46.83495 {"timestamp":"2020-10-20T20:16:45.894Z","pid":460,"message":"* Preloading application"}
+2020-10-20_20:17:41.16448 {"timestamp":"2020-10-20T20:17:41.164Z","pid":460,"message":"* Listening on unix:///var/opt/gitlab/gitlab-rails/sockets/gitlab.socket"}
+2020-10-20_20:17:41.16575 {"timestamp":"2020-10-20T20:17:41.165Z","pid":460,"message":"* Listening on tcp://127.0.0.1:8080"}
+2020-10-20_20:17:41.16587 {"timestamp":"2020-10-20T20:17:41.165Z","pid":460,"message":"! WARNING: Detected 2 Thread(s) started in app boot:"}
+2020-10-20_20:17:41.16598 {"timestamp":"2020-10-20T20:17:41.165Z","pid":460,"message":"! #\u003cThread:0x00007f3f6c8cced8@/opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.6/lib/concurrent-ruby/concurrent/atomic/ruby_thread_local_var.rb:38 sleep_forever\u003e - /opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.6/lib/concurrent-ruby/concurrent/atomic/ruby_thread_local_var.rb:40:in `pop'"}
+2020-10-20_20:17:41.16610 {"timestamp":"2020-10-20T20:17:41.166Z","pid":460,"message":"! #\u003cThread:0x00007f3f565106c0@/opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/activerecord-6.0.3.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:334 sleep\u003e - /opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/activerecord-6.0.3.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:337:in `sleep'"}
+2020-10-20_20:17:41.16624 {"timestamp":"2020-10-20T20:17:41.166Z","pid":460,"message":"Use Ctrl-C to stop"}
+2020-10-20_20:21:54.84366 Received TERM from runit, sending to process group (-PID)
