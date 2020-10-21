@@ -10218,3 +10218,913 @@
 2020-10-21_15:12:04.17302 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
 2020-10-21_15:12:04.17302 main.main()
 2020-10-21_15:12:04.17302 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:05.32667 level=info ts=2020-10-21T15:12:05.326Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:05.32688 level=info ts=2020-10-21T15:12:05.326Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:05.32702 level=info ts=2020-10-21T15:12:05.326Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:05.32723 level=info ts=2020-10-21T15:12:05.327Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:05.32743 level=info ts=2020-10-21T15:12:05.327Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:05.32760 level=info ts=2020-10-21T15:12:05.327Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:05.32794 level=error ts=2020-10-21T15:12:05.327Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:05.33145 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:05.33147 
+2020-10-21_15:12:05.33148 goroutine 1 [running]:
+2020-10-21_15:12:05.33148 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffff8d3feb6, 0x1f, 0x14, 0x308c500, 0xc000913ad0, 0x308c500)
+2020-10-21_15:12:05.33148 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:05.33148 main.main()
+2020-10-21_15:12:05.33148 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:06.49700 level=info ts=2020-10-21T15:12:06.496Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:06.49736 level=info ts=2020-10-21T15:12:06.497Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:06.49750 level=info ts=2020-10-21T15:12:06.497Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:06.49764 level=info ts=2020-10-21T15:12:06.497Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:06.49778 level=info ts=2020-10-21T15:12:06.497Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:06.49792 level=info ts=2020-10-21T15:12:06.497Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:06.49846 level=error ts=2020-10-21T15:12:06.498Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:06.50239 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:06.50242 
+2020-10-21_15:12:06.50242 goroutine 1 [running]:
+2020-10-21_15:12:06.50243 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffc6e27eb6, 0x1f, 0x14, 0x308c500, 0xc0008c69c0, 0x308c500)
+2020-10-21_15:12:06.50243 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:06.50244 main.main()
+2020-10-21_15:12:06.50244 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:07.63349 level=info ts=2020-10-21T15:12:07.633Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:07.63372 level=info ts=2020-10-21T15:12:07.633Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:07.63388 level=info ts=2020-10-21T15:12:07.633Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:07.63406 level=info ts=2020-10-21T15:12:07.634Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:07.63423 level=info ts=2020-10-21T15:12:07.634Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:07.63443 level=info ts=2020-10-21T15:12:07.634Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:07.63473 level=error ts=2020-10-21T15:12:07.634Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:07.63932 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:07.63953 
+2020-10-21_15:12:07.63953 goroutine 1 [running]:
+2020-10-21_15:12:07.63954 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fff54600eb6, 0x1f, 0x14, 0x308c500, 0xc0005bc090, 0x308c500)
+2020-10-21_15:12:07.63955 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:07.63956 main.main()
+2020-10-21_15:12:07.63956 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:08.89266 level=info ts=2020-10-21T15:12:08.892Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:08.89324 level=info ts=2020-10-21T15:12:08.893Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:08.89359 level=info ts=2020-10-21T15:12:08.893Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:08.89390 level=info ts=2020-10-21T15:12:08.893Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:08.89414 level=info ts=2020-10-21T15:12:08.894Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:08.89436 level=info ts=2020-10-21T15:12:08.894Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:08.89479 level=error ts=2020-10-21T15:12:08.894Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:08.89909 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:08.89911 
+2020-10-21_15:12:08.89912 goroutine 1 [running]:
+2020-10-21_15:12:08.89912 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fff33074eb6, 0x1f, 0x14, 0x308c500, 0xc000956d80, 0x308c500)
+2020-10-21_15:12:08.89913 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:08.89913 main.main()
+2020-10-21_15:12:08.89913 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:10.05585 level=info ts=2020-10-21T15:12:10.055Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:10.05616 level=info ts=2020-10-21T15:12:10.056Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:10.05691 level=info ts=2020-10-21T15:12:10.056Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:10.05705 level=info ts=2020-10-21T15:12:10.056Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:10.05725 level=info ts=2020-10-21T15:12:10.057Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:10.05749 level=info ts=2020-10-21T15:12:10.057Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:10.05797 level=error ts=2020-10-21T15:12:10.057Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:10.06271 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:10.06276 
+2020-10-21_15:12:10.06276 goroutine 1 [running]:
+2020-10-21_15:12:10.06276 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fff9031deb6, 0x1f, 0x14, 0x308c500, 0xc0007fede0, 0x308c500)
+2020-10-21_15:12:10.06277 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:10.06277 main.main()
+2020-10-21_15:12:10.06277 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:11.20754 level=info ts=2020-10-21T15:12:11.207Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:11.21183 level=info ts=2020-10-21T15:12:11.211Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:11.21215 level=info ts=2020-10-21T15:12:11.211Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:11.21247 level=info ts=2020-10-21T15:12:11.212Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:11.21250 level=info ts=2020-10-21T15:12:11.212Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:11.21576 level=info ts=2020-10-21T15:12:11.212Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:11.21629 level=error ts=2020-10-21T15:12:11.216Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:11.22271 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:11.22274 
+2020-10-21_15:12:11.22274 goroutine 1 [running]:
+2020-10-21_15:12:11.22274 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffe8c17eb6, 0x1f, 0x14, 0x308c500, 0xc0007c0bd0, 0x308c500)
+2020-10-21_15:12:11.22276 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:11.22292 main.main()
+2020-10-21_15:12:11.22294 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:12.39430 level=info ts=2020-10-21T15:12:12.394Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:12.39434 level=info ts=2020-10-21T15:12:12.394Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:12.39468 level=info ts=2020-10-21T15:12:12.394Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:12.39500 level=info ts=2020-10-21T15:12:12.394Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:12.39516 level=info ts=2020-10-21T15:12:12.394Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:12.39553 level=info ts=2020-10-21T15:12:12.395Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:12.39597 level=error ts=2020-10-21T15:12:12.395Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:12.39959 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:12.39963 
+2020-10-21_15:12:12.39963 goroutine 1 [running]:
+2020-10-21_15:12:12.39964 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe92c0beb6, 0x1f, 0x14, 0x308c500, 0xc0008d4f00, 0x308c500)
+2020-10-21_15:12:12.39965 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:12.39967 main.main()
+2020-10-21_15:12:12.39967 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:13.53544 level=info ts=2020-10-21T15:12:13.535Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:13.53567 level=info ts=2020-10-21T15:12:13.535Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:13.53582 level=info ts=2020-10-21T15:12:13.535Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:13.53604 level=info ts=2020-10-21T15:12:13.535Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:13.53623 level=info ts=2020-10-21T15:12:13.536Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:13.53640 level=info ts=2020-10-21T15:12:13.536Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:13.53673 level=error ts=2020-10-21T15:12:13.536Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:13.54068 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:13.54079 
+2020-10-21_15:12:13.54080 goroutine 1 [running]:
+2020-10-21_15:12:13.54080 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffb24a4eb6, 0x1f, 0x14, 0x308c500, 0xc0005cf110, 0x308c500)
+2020-10-21_15:12:13.54080 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:13.54081 main.main()
+2020-10-21_15:12:13.54081 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:14.68600 level=info ts=2020-10-21T15:12:14.685Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:14.68604 level=info ts=2020-10-21T15:12:14.685Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:14.68634 level=info ts=2020-10-21T15:12:14.686Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:14.68637 level=info ts=2020-10-21T15:12:14.686Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:14.68658 level=info ts=2020-10-21T15:12:14.686Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:14.68678 level=info ts=2020-10-21T15:12:14.686Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:14.68712 level=error ts=2020-10-21T15:12:14.687Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:14.69354 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:14.69357 
+2020-10-21_15:12:14.69358 goroutine 1 [running]:
+2020-10-21_15:12:14.69358 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc6f7b9eb6, 0x1f, 0x14, 0x308c500, 0xc000370bd0, 0x308c500)
+2020-10-21_15:12:14.69358 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:14.69360 main.main()
+2020-10-21_15:12:14.69360 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:15.82919 level=info ts=2020-10-21T15:12:15.828Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:15.82923 level=info ts=2020-10-21T15:12:15.828Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:15.82924 level=info ts=2020-10-21T15:12:15.828Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:15.82925 level=info ts=2020-10-21T15:12:15.829Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:15.82925 level=info ts=2020-10-21T15:12:15.829Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:15.82925 level=info ts=2020-10-21T15:12:15.829Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:15.83028 level=error ts=2020-10-21T15:12:15.830Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:15.83547 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:15.83551 
+2020-10-21_15:12:15.83552 goroutine 1 [running]:
+2020-10-21_15:12:15.83552 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffff2a60eb6, 0x1f, 0x14, 0x308c500, 0xc0000f3080, 0x308c500)
+2020-10-21_15:12:15.83554 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:15.83555 main.main()
+2020-10-21_15:12:15.83555 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:16.97061 level=info ts=2020-10-21T15:12:16.970Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:16.97102 level=info ts=2020-10-21T15:12:16.970Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:16.97133 level=info ts=2020-10-21T15:12:16.971Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:16.97176 level=info ts=2020-10-21T15:12:16.971Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:16.97253 level=info ts=2020-10-21T15:12:16.972Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:16.97282 level=info ts=2020-10-21T15:12:16.972Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:16.97322 level=error ts=2020-10-21T15:12:16.973Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:16.98143 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:16.98146 
+2020-10-21_15:12:16.98147 goroutine 1 [running]:
+2020-10-21_15:12:16.98147 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe343c8eb6, 0x1f, 0x14, 0x308c500, 0xc00031e570, 0x308c500)
+2020-10-21_15:12:16.98148 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:16.98149 main.main()
+2020-10-21_15:12:16.98149 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:18.11276 level=info ts=2020-10-21T15:12:18.112Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:18.11281 level=info ts=2020-10-21T15:12:18.112Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:18.11307 level=info ts=2020-10-21T15:12:18.112Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:18.11325 level=info ts=2020-10-21T15:12:18.113Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:18.11349 level=info ts=2020-10-21T15:12:18.113Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:18.11368 level=info ts=2020-10-21T15:12:18.113Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:18.11400 level=error ts=2020-10-21T15:12:18.113Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:18.11753 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:18.11756 
+2020-10-21_15:12:18.11757 goroutine 1 [running]:
+2020-10-21_15:12:18.11757 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffdfa682eb6, 0x1f, 0x14, 0x308c500, 0xc00036c270, 0x308c500)
+2020-10-21_15:12:18.11757 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:18.11758 main.main()
+2020-10-21_15:12:18.11759 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:19.23701 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:19.23705 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:19.23705 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:19.23706 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:19.23706 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:19.23706 level=info ts=2020-10-21T15:12:19.236Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:19.23707 level=error ts=2020-10-21T15:12:19.236Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:19.24055 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:19.24058 
+2020-10-21_15:12:19.24059 goroutine 1 [running]:
+2020-10-21_15:12:19.24059 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd0ddf7eb6, 0x1f, 0x14, 0x308c500, 0xc0005ea5d0, 0x308c500)
+2020-10-21_15:12:19.24059 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:19.24060 main.main()
+2020-10-21_15:12:19.24060 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:20.38733 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:20.38737 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:20.38738 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:20.38761 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:20.38764 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:20.38784 level=info ts=2020-10-21T15:12:20.387Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:20.38810 level=error ts=2020-10-21T15:12:20.388Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:20.39134 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:20.39137 
+2020-10-21_15:12:20.39137 goroutine 1 [running]:
+2020-10-21_15:12:20.39138 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe50a0beb6, 0x1f, 0x14, 0x308c500, 0xc0006e4330, 0x308c500)
+2020-10-21_15:12:20.39139 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:20.39139 main.main()
+2020-10-21_15:12:20.39140 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:21.56836 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:21.56842 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:21.56843 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:21.56848 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:21.56849 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:21.56854 level=info ts=2020-10-21T15:12:21.568Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:21.56987 level=error ts=2020-10-21T15:12:21.568Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:21.57345 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:21.57348 
+2020-10-21_15:12:21.57349 goroutine 1 [running]:
+2020-10-21_15:12:21.57349 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffec2ca6eb6, 0x1f, 0x14, 0x308c500, 0xc0005acba0, 0x308c500)
+2020-10-21_15:12:21.57350 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:21.57350 main.main()
+2020-10-21_15:12:21.57351 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:22.68344 level=info ts=2020-10-21T15:12:22.683Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:22.68370 level=info ts=2020-10-21T15:12:22.683Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:22.68382 level=info ts=2020-10-21T15:12:22.683Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:22.68400 level=info ts=2020-10-21T15:12:22.683Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:22.68411 level=info ts=2020-10-21T15:12:22.684Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:22.68421 level=info ts=2020-10-21T15:12:22.684Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:22.68454 level=error ts=2020-10-21T15:12:22.684Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:22.69047 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:22.69059 
+2020-10-21_15:12:22.69062 goroutine 1 [running]:
+2020-10-21_15:12:22.69086 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffdc804deb6, 0x1f, 0x14, 0x308c500, 0xc0005c90e0, 0x308c500)
+2020-10-21_15:12:22.69127 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:22.69153 main.main()
+2020-10-21_15:12:22.69168 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:23.77115 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:23.77140 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:23.77148 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:23.77166 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:23.77183 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:23.77199 level=info ts=2020-10-21T15:12:23.771Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:23.77227 level=error ts=2020-10-21T15:12:23.772Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:23.77560 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:23.77570 
+2020-10-21_15:12:23.77582 goroutine 1 [running]:
+2020-10-21_15:12:23.77600 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd6d065eb6, 0x1f, 0x14, 0x308c500, 0xc0007eec90, 0x308c500)
+2020-10-21_15:12:23.77640 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:23.77676 main.main()
+2020-10-21_15:12:23.77683 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:24.86138 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:24.86141 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:24.86161 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:24.86163 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:24.86163 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:24.86164 level=info ts=2020-10-21T15:12:24.861Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:24.86183 level=error ts=2020-10-21T15:12:24.861Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:24.86768 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:24.86770 
+2020-10-21_15:12:24.86770 goroutine 1 [running]:
+2020-10-21_15:12:24.86770 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd3dfe8eb6, 0x1f, 0x14, 0x308c500, 0xc00028f7a0, 0x308c500)
+2020-10-21_15:12:24.86772 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:24.86772 main.main()
+2020-10-21_15:12:24.86772 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:25.98020 level=info ts=2020-10-21T15:12:25.980Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:25.98050 level=info ts=2020-10-21T15:12:25.980Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:25.98092 level=info ts=2020-10-21T15:12:25.980Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:25.98113 level=info ts=2020-10-21T15:12:25.980Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:25.98132 level=info ts=2020-10-21T15:12:25.981Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:25.98150 level=info ts=2020-10-21T15:12:25.981Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:25.98181 level=error ts=2020-10-21T15:12:25.981Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:25.98581 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:25.98584 
+2020-10-21_15:12:25.98585 goroutine 1 [running]:
+2020-10-21_15:12:25.98585 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffbe9b5eb6, 0x1f, 0x14, 0x308c500, 0xc000831e90, 0x308c500)
+2020-10-21_15:12:25.98585 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:25.98585 main.main()
+2020-10-21_15:12:25.98585 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:27.12518 level=info ts=2020-10-21T15:12:27.125Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:27.12571 level=info ts=2020-10-21T15:12:27.125Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:27.12589 level=info ts=2020-10-21T15:12:27.125Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:27.12603 level=info ts=2020-10-21T15:12:27.125Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:27.12669 level=info ts=2020-10-21T15:12:27.126Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:27.12688 level=info ts=2020-10-21T15:12:27.126Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:27.12719 level=error ts=2020-10-21T15:12:27.127Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:27.13065 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:27.13096 
+2020-10-21_15:12:27.13109 goroutine 1 [running]:
+2020-10-21_15:12:27.13134 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffde9b28eb6, 0x1f, 0x14, 0x308c500, 0xc0006c9140, 0x308c500)
+2020-10-21_15:12:27.13189 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:27.13219 main.main()
+2020-10-21_15:12:27.13236 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:28.26166 level=info ts=2020-10-21T15:12:28.261Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:28.26199 level=info ts=2020-10-21T15:12:28.261Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:28.26216 level=info ts=2020-10-21T15:12:28.262Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:28.26233 level=info ts=2020-10-21T15:12:28.262Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:28.26250 level=info ts=2020-10-21T15:12:28.262Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:28.26271 level=info ts=2020-10-21T15:12:28.262Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:28.26313 level=error ts=2020-10-21T15:12:28.263Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:28.26674 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:28.26676 
+2020-10-21_15:12:28.26676 goroutine 1 [running]:
+2020-10-21_15:12:28.26677 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd901cdeb6, 0x1f, 0x14, 0x308c500, 0xc0005310b0, 0x308c500)
+2020-10-21_15:12:28.26677 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:28.26678 main.main()
+2020-10-21_15:12:28.26679 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:29.39296 level=info ts=2020-10-21T15:12:29.392Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:29.39301 level=info ts=2020-10-21T15:12:29.392Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:29.39325 level=info ts=2020-10-21T15:12:29.392Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:29.39341 level=info ts=2020-10-21T15:12:29.393Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:29.39353 level=info ts=2020-10-21T15:12:29.393Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:29.39382 level=info ts=2020-10-21T15:12:29.393Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:29.39418 level=error ts=2020-10-21T15:12:29.394Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:29.39785 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:29.39788 
+2020-10-21_15:12:29.39788 goroutine 1 [running]:
+2020-10-21_15:12:29.39788 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffdadd85eb6, 0x1f, 0x14, 0x308c500, 0xc00068cdb0, 0x308c500)
+2020-10-21_15:12:29.39788 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:29.39789 main.main()
+2020-10-21_15:12:29.39789 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:30.50713 level=info ts=2020-10-21T15:12:30.507Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:30.50739 level=info ts=2020-10-21T15:12:30.507Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:30.50756 level=info ts=2020-10-21T15:12:30.507Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:30.50776 level=info ts=2020-10-21T15:12:30.507Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:30.50794 level=info ts=2020-10-21T15:12:30.507Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:30.50811 level=info ts=2020-10-21T15:12:30.508Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:30.50844 level=error ts=2020-10-21T15:12:30.508Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:30.51389 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:30.51391 
+2020-10-21_15:12:30.51392 goroutine 1 [running]:
+2020-10-21_15:12:30.51392 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc57677eb6, 0x1f, 0x14, 0x308c500, 0xc000534810, 0x308c500)
+2020-10-21_15:12:30.51392 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:30.51393 main.main()
+2020-10-21_15:12:30.51393 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:31.63659 level=info ts=2020-10-21T15:12:31.636Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:31.64183 level=info ts=2020-10-21T15:12:31.641Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:31.64187 level=info ts=2020-10-21T15:12:31.641Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:31.64188 level=info ts=2020-10-21T15:12:31.641Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:31.64209 level=info ts=2020-10-21T15:12:31.641Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:31.64209 level=info ts=2020-10-21T15:12:31.641Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:31.64239 level=error ts=2020-10-21T15:12:31.642Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:31.64467 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:31.64480 
+2020-10-21_15:12:31.64480 goroutine 1 [running]:
+2020-10-21_15:12:31.64480 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffda53c9eb6, 0x1f, 0x14, 0x308c500, 0xc0005c2cf0, 0x308c500)
+2020-10-21_15:12:31.64482 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:31.64482 main.main()
+2020-10-21_15:12:31.64482 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:32.77889 level=info ts=2020-10-21T15:12:32.778Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:32.77923 level=info ts=2020-10-21T15:12:32.779Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:32.77941 level=info ts=2020-10-21T15:12:32.779Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:32.77964 level=info ts=2020-10-21T15:12:32.779Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:32.77987 level=info ts=2020-10-21T15:12:32.779Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:32.78004 level=info ts=2020-10-21T15:12:32.779Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:32.78039 level=error ts=2020-10-21T15:12:32.780Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:32.78781 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:32.78783 
+2020-10-21_15:12:32.78784 goroutine 1 [running]:
+2020-10-21_15:12:32.78784 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffbe747eb6, 0x1f, 0x14, 0x308c500, 0xc000887e00, 0x308c500)
+2020-10-21_15:12:32.78785 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:32.78785 main.main()
+2020-10-21_15:12:32.78785 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:33.90951 level=info ts=2020-10-21T15:12:33.909Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:33.91069 level=info ts=2020-10-21T15:12:33.910Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:33.91092 level=info ts=2020-10-21T15:12:33.910Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:33.91111 level=info ts=2020-10-21T15:12:33.911Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:33.91129 level=info ts=2020-10-21T15:12:33.911Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:33.91148 level=info ts=2020-10-21T15:12:33.911Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:33.91186 level=error ts=2020-10-21T15:12:33.911Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:33.92392 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:33.92395 
+2020-10-21_15:12:33.92395 goroutine 1 [running]:
+2020-10-21_15:12:33.92395 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe8e9c2eb6, 0x1f, 0x14, 0x308c500, 0xc0007b2cf0, 0x308c500)
+2020-10-21_15:12:33.92396 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:33.92396 main.main()
+2020-10-21_15:12:33.92396 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:35.04270 level=info ts=2020-10-21T15:12:35.042Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:35.04287 level=info ts=2020-10-21T15:12:35.042Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:35.04299 level=info ts=2020-10-21T15:12:35.042Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:35.04313 level=info ts=2020-10-21T15:12:35.043Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:35.04328 level=info ts=2020-10-21T15:12:35.043Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:35.04342 level=info ts=2020-10-21T15:12:35.043Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:35.04374 level=error ts=2020-10-21T15:12:35.043Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:35.04774 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:35.04775 
+2020-10-21_15:12:35.04776 goroutine 1 [running]:
+2020-10-21_15:12:35.04776 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffecef2aeb6, 0x1f, 0x14, 0x308c500, 0xc0007d8c30, 0x308c500)
+2020-10-21_15:12:35.04776 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:35.04776 main.main()
+2020-10-21_15:12:35.04777 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:36.17610 level=info ts=2020-10-21T15:12:36.175Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:36.17630 level=info ts=2020-10-21T15:12:36.176Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:36.17639 level=info ts=2020-10-21T15:12:36.176Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:36.17649 level=info ts=2020-10-21T15:12:36.176Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:36.17664 level=info ts=2020-10-21T15:12:36.176Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:36.17684 level=info ts=2020-10-21T15:12:36.176Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:36.17717 level=error ts=2020-10-21T15:12:36.177Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:36.18105 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:36.18109 
+2020-10-21_15:12:36.18110 goroutine 1 [running]:
+2020-10-21_15:12:36.18110 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc269a6eb6, 0x1f, 0x14, 0x308c500, 0xc0006ef8c0, 0x308c500)
+2020-10-21_15:12:36.18110 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:36.18111 main.main()
+2020-10-21_15:12:36.18111 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:37.30305 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:37.30309 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:37.30310 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:37.30310 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:37.30310 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:37.30310 level=info ts=2020-10-21T15:12:37.302Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:37.30311 level=error ts=2020-10-21T15:12:37.303Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:37.30673 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:37.30675 
+2020-10-21_15:12:37.30676 goroutine 1 [running]:
+2020-10-21_15:12:37.30676 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe91a7feb6, 0x1f, 0x14, 0x308c500, 0xc0007bb050, 0x308c500)
+2020-10-21_15:12:37.30676 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:37.30676 main.main()
+2020-10-21_15:12:37.30677 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:38.45370 level=info ts=2020-10-21T15:12:38.451Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:38.45488 level=info ts=2020-10-21T15:12:38.454Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:38.45489 level=info ts=2020-10-21T15:12:38.454Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:38.45490 level=info ts=2020-10-21T15:12:38.454Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:38.45490 level=info ts=2020-10-21T15:12:38.454Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:38.45490 level=info ts=2020-10-21T15:12:38.454Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:38.45490 level=error ts=2020-10-21T15:12:38.454Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:38.46069 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:38.46071 
+2020-10-21_15:12:38.46071 goroutine 1 [running]:
+2020-10-21_15:12:38.46072 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc514c8eb6, 0x1f, 0x14, 0x308c500, 0xc0007a9b60, 0x308c500)
+2020-10-21_15:12:38.46072 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:38.46072 main.main()
+2020-10-21_15:12:38.46073 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:39.61932 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:39.61935 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:39.61935 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:39.61944 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:39.61965 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:39.61966 level=info ts=2020-10-21T15:12:39.619Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:39.61997 level=error ts=2020-10-21T15:12:39.619Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:39.62545 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:39.62547 
+2020-10-21_15:12:39.62547 goroutine 1 [running]:
+2020-10-21_15:12:39.62547 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fff384b4eb6, 0x1f, 0x14, 0x308c500, 0xc0006ef260, 0x308c500)
+2020-10-21_15:12:39.62549 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:39.62549 main.main()
+2020-10-21_15:12:39.62549 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:40.76091 level=info ts=2020-10-21T15:12:40.760Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:40.76246 level=info ts=2020-10-21T15:12:40.761Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:40.76274 level=info ts=2020-10-21T15:12:40.762Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:40.76289 level=info ts=2020-10-21T15:12:40.762Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:40.76303 level=info ts=2020-10-21T15:12:40.762Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:40.76317 level=info ts=2020-10-21T15:12:40.763Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:40.76356 level=error ts=2020-10-21T15:12:40.763Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:40.77556 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:40.77558 
+2020-10-21_15:12:40.77559 goroutine 1 [running]:
+2020-10-21_15:12:40.77559 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd61436eb6, 0x1f, 0x14, 0x308c500, 0xc0007a9a10, 0x308c500)
+2020-10-21_15:12:40.77559 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:40.77559 main.main()
+2020-10-21_15:12:40.77560 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:41.87643 level=info ts=2020-10-21T15:12:41.876Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:41.87670 level=info ts=2020-10-21T15:12:41.876Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:41.87682 level=info ts=2020-10-21T15:12:41.876Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:41.87690 level=info ts=2020-10-21T15:12:41.876Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:41.87707 level=info ts=2020-10-21T15:12:41.877Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:41.87725 level=info ts=2020-10-21T15:12:41.877Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:41.87760 level=error ts=2020-10-21T15:12:41.877Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:41.88147 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:41.88156 
+2020-10-21_15:12:41.88180 goroutine 1 [running]:
+2020-10-21_15:12:41.88203 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe046b5eb6, 0x1f, 0x14, 0x308c500, 0xc0007ce960, 0x308c500)
+2020-10-21_15:12:41.88245 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:41.88273 main.main()
+2020-10-21_15:12:41.88291 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:42.98072 level=info ts=2020-10-21T15:12:42.980Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:42.98110 level=info ts=2020-10-21T15:12:42.981Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:42.98112 level=info ts=2020-10-21T15:12:42.981Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:42.98126 level=info ts=2020-10-21T15:12:42.981Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:42.98127 level=info ts=2020-10-21T15:12:42.981Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:42.98140 level=info ts=2020-10-21T15:12:42.981Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:42.98163 level=error ts=2020-10-21T15:12:42.981Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:42.98567 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:42.98569 
+2020-10-21_15:12:42.98569 goroutine 1 [running]:
+2020-10-21_15:12:42.98570 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe58521eb6, 0x1f, 0x14, 0x308c500, 0xc000650960, 0x308c500)
+2020-10-21_15:12:42.98570 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:42.98570 main.main()
+2020-10-21_15:12:42.98570 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:44.05133 level=info ts=2020-10-21T15:12:44.051Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:44.05166 level=info ts=2020-10-21T15:12:44.051Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:44.05185 level=info ts=2020-10-21T15:12:44.051Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:44.05200 level=info ts=2020-10-21T15:12:44.051Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:44.05213 level=info ts=2020-10-21T15:12:44.052Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:44.05227 level=info ts=2020-10-21T15:12:44.052Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:44.05257 level=error ts=2020-10-21T15:12:44.052Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:44.05670 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:44.05690 
+2020-10-21_15:12:44.05708 goroutine 1 [running]:
+2020-10-21_15:12:44.05735 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe4d9d7eb6, 0x1f, 0x14, 0x308c500, 0xc0005f0d50, 0x308c500)
+2020-10-21_15:12:44.05781 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:44.05808 main.main()
+2020-10-21_15:12:44.05825 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:45.18791 level=info ts=2020-10-21T15:12:45.187Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:45.18794 level=info ts=2020-10-21T15:12:45.187Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:45.18794 level=info ts=2020-10-21T15:12:45.187Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:45.18818 level=info ts=2020-10-21T15:12:45.187Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:45.18819 level=info ts=2020-10-21T15:12:45.187Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:45.18819 level=info ts=2020-10-21T15:12:45.188Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:45.18839 level=error ts=2020-10-21T15:12:45.188Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:45.19164 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:45.19166 
+2020-10-21_15:12:45.19166 goroutine 1 [running]:
+2020-10-21_15:12:45.19166 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffc9c46eb6, 0x1f, 0x14, 0x308c500, 0xc0004b8cf0, 0x308c500)
+2020-10-21_15:12:45.19167 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:45.19168 main.main()
+2020-10-21_15:12:45.19169 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:46.32653 level=info ts=2020-10-21T15:12:46.326Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:46.32692 level=info ts=2020-10-21T15:12:46.326Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:46.32719 level=info ts=2020-10-21T15:12:46.327Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:46.32743 level=info ts=2020-10-21T15:12:46.327Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:46.32766 level=info ts=2020-10-21T15:12:46.327Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:46.32794 level=info ts=2020-10-21T15:12:46.327Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:46.32833 level=error ts=2020-10-21T15:12:46.328Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:46.33503 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:46.33505 
+2020-10-21_15:12:46.33505 goroutine 1 [running]:
+2020-10-21_15:12:46.33507 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc31e23eb6, 0x1f, 0x14, 0x308c500, 0xc000890ba0, 0x308c500)
+2020-10-21_15:12:46.33507 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:46.33507 main.main()
+2020-10-21_15:12:46.33507 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:47.45937 level=info ts=2020-10-21T15:12:47.459Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:47.45942 level=info ts=2020-10-21T15:12:47.459Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:47.45966 level=info ts=2020-10-21T15:12:47.459Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:47.45990 level=info ts=2020-10-21T15:12:47.459Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:47.46042 level=info ts=2020-10-21T15:12:47.459Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:47.46045 level=info ts=2020-10-21T15:12:47.460Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:47.46113 level=error ts=2020-10-21T15:12:47.460Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:47.46493 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:47.46497 
+2020-10-21_15:12:47.46498 goroutine 1 [running]:
+2020-10-21_15:12:47.46498 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffea5765eb6, 0x1f, 0x14, 0x308c500, 0xc0005d1170, 0x308c500)
+2020-10-21_15:12:47.46499 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:47.46499 main.main()
+2020-10-21_15:12:47.46499 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:48.58223 level=info ts=2020-10-21T15:12:48.582Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:48.58247 level=info ts=2020-10-21T15:12:48.582Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:48.58264 level=info ts=2020-10-21T15:12:48.582Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:48.58281 level=info ts=2020-10-21T15:12:48.582Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:48.58298 level=info ts=2020-10-21T15:12:48.582Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:48.58315 level=info ts=2020-10-21T15:12:48.583Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:48.58343 level=error ts=2020-10-21T15:12:48.583Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:48.58705 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:48.58708 
+2020-10-21_15:12:48.58708 goroutine 1 [running]:
+2020-10-21_15:12:48.58708 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffde5954eb6, 0x1f, 0x14, 0x308c500, 0xc0008efb00, 0x308c500)
+2020-10-21_15:12:48.58709 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:48.58709 main.main()
+2020-10-21_15:12:48.58709 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:49.70677 level=info ts=2020-10-21T15:12:49.706Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:49.70681 level=info ts=2020-10-21T15:12:49.706Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:49.70693 level=info ts=2020-10-21T15:12:49.706Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:49.70724 level=info ts=2020-10-21T15:12:49.706Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:49.70746 level=info ts=2020-10-21T15:12:49.707Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:49.70748 level=info ts=2020-10-21T15:12:49.707Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:49.70780 level=error ts=2020-10-21T15:12:49.707Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:49.71096 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:49.71098 
+2020-10-21_15:12:49.71098 goroutine 1 [running]:
+2020-10-21_15:12:49.71098 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe8219eeb6, 0x1f, 0x14, 0x308c500, 0xc0008e77d0, 0x308c500)
+2020-10-21_15:12:49.71099 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:49.71100 main.main()
+2020-10-21_15:12:49.71100 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:50.82596 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:50.82599 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:50.82599 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:50.82600 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:50.82600 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:50.82600 level=info ts=2020-10-21T15:12:50.825Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:50.82601 level=error ts=2020-10-21T15:12:50.825Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:50.83016 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:50.83018 
+2020-10-21_15:12:50.83018 goroutine 1 [running]:
+2020-10-21_15:12:50.83018 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe7f43feb6, 0x1f, 0x14, 0x308c500, 0xc0008bf410, 0x308c500)
+2020-10-21_15:12:50.83019 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:50.83019 main.main()
+2020-10-21_15:12:50.83020 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:51.96136 level=info ts=2020-10-21T15:12:51.961Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:51.96158 level=info ts=2020-10-21T15:12:51.961Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:51.96179 level=info ts=2020-10-21T15:12:51.961Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:51.96198 level=info ts=2020-10-21T15:12:51.961Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:51.96217 level=info ts=2020-10-21T15:12:51.962Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:51.96235 level=info ts=2020-10-21T15:12:51.962Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:51.96268 level=error ts=2020-10-21T15:12:51.962Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:51.96608 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:51.96610 
+2020-10-21_15:12:51.96610 goroutine 1 [running]:
+2020-10-21_15:12:51.96610 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc2afe1eb6, 0x1f, 0x14, 0x308c500, 0xc000832840, 0x308c500)
+2020-10-21_15:12:51.96611 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:51.96611 main.main()
+2020-10-21_15:12:51.96611 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:53.08784 level=info ts=2020-10-21T15:12:53.087Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:53.08796 level=info ts=2020-10-21T15:12:53.087Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:53.08835 level=info ts=2020-10-21T15:12:53.088Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:53.08836 level=info ts=2020-10-21T15:12:53.088Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:53.08837 level=info ts=2020-10-21T15:12:53.088Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:53.08862 level=info ts=2020-10-21T15:12:53.088Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:53.08904 level=error ts=2020-10-21T15:12:53.088Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:53.09308 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:53.09310 
+2020-10-21_15:12:53.09311 goroutine 1 [running]:
+2020-10-21_15:12:53.09311 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd8f978eb6, 0x1f, 0x14, 0x308c500, 0xc000899020, 0x308c500)
+2020-10-21_15:12:53.09312 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:53.09312 main.main()
+2020-10-21_15:12:53.09312 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:54.22267 level=info ts=2020-10-21T15:12:54.222Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:54.22298 level=info ts=2020-10-21T15:12:54.222Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:54.22320 level=info ts=2020-10-21T15:12:54.223Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:54.22339 level=info ts=2020-10-21T15:12:54.223Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:54.22359 level=info ts=2020-10-21T15:12:54.223Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:54.22377 level=info ts=2020-10-21T15:12:54.223Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:54.22414 level=error ts=2020-10-21T15:12:54.224Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:54.22803 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:54.22805 
+2020-10-21_15:12:54.22805 goroutine 1 [running]:
+2020-10-21_15:12:54.22805 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe79e5feb6, 0x1f, 0x14, 0x308c500, 0xc000641020, 0x308c500)
+2020-10-21_15:12:54.22805 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:54.22806 main.main()
+2020-10-21_15:12:54.22806 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:55.35469 level=info ts=2020-10-21T15:12:55.354Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:55.35507 level=info ts=2020-10-21T15:12:55.354Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:55.35533 level=info ts=2020-10-21T15:12:55.355Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:55.35559 level=info ts=2020-10-21T15:12:55.355Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:55.35583 level=info ts=2020-10-21T15:12:55.355Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:55.35610 level=info ts=2020-10-21T15:12:55.356Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:55.35654 level=error ts=2020-10-21T15:12:55.356Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:55.36406 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:55.36408 
+2020-10-21_15:12:55.36408 goroutine 1 [running]:
+2020-10-21_15:12:55.36408 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffcd247eeb6, 0x1f, 0x14, 0x308c500, 0xc000786e70, 0x308c500)
+2020-10-21_15:12:55.36409 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:55.36409 main.main()
+2020-10-21_15:12:55.36409 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:56.47906 level=info ts=2020-10-21T15:12:56.478Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:56.48078 level=info ts=2020-10-21T15:12:56.480Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:56.48104 level=info ts=2020-10-21T15:12:56.480Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:56.48133 level=info ts=2020-10-21T15:12:56.481Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:56.48159 level=info ts=2020-10-21T15:12:56.481Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:56.48187 level=info ts=2020-10-21T15:12:56.481Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:56.48226 level=error ts=2020-10-21T15:12:56.482Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:56.48472 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:56.48484 
+2020-10-21_15:12:56.48514 goroutine 1 [running]:
+2020-10-21_15:12:56.48538 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd1201aeb6, 0x1f, 0x14, 0x308c500, 0xc0002a30b0, 0x308c500)
+2020-10-21_15:12:56.48585 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:56.48615 main.main()
+2020-10-21_15:12:56.48634 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:57.63082 level=info ts=2020-10-21T15:12:57.630Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:57.63085 level=info ts=2020-10-21T15:12:57.630Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:57.63093 level=info ts=2020-10-21T15:12:57.630Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:57.63124 level=info ts=2020-10-21T15:12:57.630Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:57.63133 level=info ts=2020-10-21T15:12:57.631Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:57.63142 level=info ts=2020-10-21T15:12:57.631Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:57.63176 level=error ts=2020-10-21T15:12:57.631Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:57.63561 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:57.63563 
+2020-10-21_15:12:57.63563 goroutine 1 [running]:
+2020-10-21_15:12:57.63564 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc5ccdbeb6, 0x1f, 0x14, 0x308c500, 0xc0003e80c0, 0x308c500)
+2020-10-21_15:12:57.63565 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:57.63565 main.main()
+2020-10-21_15:12:57.63565 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:58.74043 level=info ts=2020-10-21T15:12:58.739Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:58.74048 level=info ts=2020-10-21T15:12:58.739Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:58.74049 level=info ts=2020-10-21T15:12:58.739Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:58.74050 level=info ts=2020-10-21T15:12:58.740Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:58.74050 level=info ts=2020-10-21T15:12:58.740Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:58.74050 level=info ts=2020-10-21T15:12:58.740Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:58.74051 level=error ts=2020-10-21T15:12:58.740Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:58.74379 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:58.74381 
+2020-10-21_15:12:58.74381 goroutine 1 [running]:
+2020-10-21_15:12:58.74382 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffee25e0eb6, 0x1f, 0x14, 0x308c500, 0xc0006ea450, 0x308c500)
+2020-10-21_15:12:58.74382 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:58.74383 main.main()
+2020-10-21_15:12:58.74383 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:12:59.86547 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:12:59.86551 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:12:59.86551 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:12:59.86578 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:12:59.86596 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:12:59.86612 level=info ts=2020-10-21T15:12:59.865Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:12:59.86642 level=error ts=2020-10-21T15:12:59.866Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:12:59.86968 panic: Unable to create mmap-ed active query log
+2020-10-21_15:12:59.86970 
+2020-10-21_15:12:59.86971 goroutine 1 [running]:
+2020-10-21_15:12:59.86971 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffeccdeaeb6, 0x1f, 0x14, 0x308c500, 0xc0008f9bf0, 0x308c500)
+2020-10-21_15:12:59.86972 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:12:59.86972 main.main()
+2020-10-21_15:12:59.86972 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:00.93624 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:00.93628 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:00.93629 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:00.93642 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:00.93643 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:00.93664 level=info ts=2020-10-21T15:13:00.936Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:00.93700 level=error ts=2020-10-21T15:13:00.936Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:00.94088 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:00.94089 
+2020-10-21_15:13:00.94090 goroutine 1 [running]:
+2020-10-21_15:13:00.94090 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd3decaeb6, 0x1f, 0x14, 0x308c500, 0xc00052cde0, 0x308c500)
+2020-10-21_15:13:00.94091 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:00.94091 main.main()
+2020-10-21_15:13:00.94092 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:02.01866 level=info ts=2020-10-21T15:13:02.018Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:02.01870 level=info ts=2020-10-21T15:13:02.018Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:02.01883 level=info ts=2020-10-21T15:13:02.018Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:02.01884 level=info ts=2020-10-21T15:13:02.018Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:02.01910 level=info ts=2020-10-21T15:13:02.018Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:02.01912 level=info ts=2020-10-21T15:13:02.019Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:02.01942 level=error ts=2020-10-21T15:13:02.019Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:02.02299 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:02.02300 
+2020-10-21_15:13:02.02301 goroutine 1 [running]:
+2020-10-21_15:13:02.02301 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd535f2eb6, 0x1f, 0x14, 0x308c500, 0xc0006050b0, 0x308c500)
+2020-10-21_15:13:02.02302 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:02.02321 main.main()
+2020-10-21_15:13:02.02321 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:03.09695 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:03.09697 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:03.09698 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:03.09698 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:03.09698 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:03.09698 level=info ts=2020-10-21T15:13:03.096Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:03.09720 level=error ts=2020-10-21T15:13:03.096Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:03.10265 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:03.10266 
+2020-10-21_15:13:03.10267 goroutine 1 [running]:
+2020-10-21_15:13:03.10267 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe7f224eb6, 0x1f, 0x14, 0x308c500, 0xc0007132c0, 0x308c500)
+2020-10-21_15:13:03.10268 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:03.10268 main.main()
+2020-10-21_15:13:03.10268 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:04.17209 level=info ts=2020-10-21T15:13:04.171Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:04.17212 level=info ts=2020-10-21T15:13:04.172Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:04.17234 level=info ts=2020-10-21T15:13:04.172Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:04.17235 level=info ts=2020-10-21T15:13:04.172Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:04.17236 level=info ts=2020-10-21T15:13:04.172Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:04.17236 level=info ts=2020-10-21T15:13:04.172Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:04.17262 level=error ts=2020-10-21T15:13:04.172Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:04.17783 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:04.17784 
+2020-10-21_15:13:04.17785 goroutine 1 [running]:
+2020-10-21_15:13:04.17785 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffe9b9eeb6, 0x1f, 0x14, 0x308c500, 0xc0005e5140, 0x308c500)
+2020-10-21_15:13:04.17786 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:04.17786 main.main()
+2020-10-21_15:13:04.17786 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:05.31564 level=info ts=2020-10-21T15:13:05.315Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:05.31593 level=info ts=2020-10-21T15:13:05.315Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:05.31607 level=info ts=2020-10-21T15:13:05.316Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:05.31621 level=info ts=2020-10-21T15:13:05.316Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:05.31635 level=info ts=2020-10-21T15:13:05.316Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:05.31649 level=info ts=2020-10-21T15:13:05.316Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:05.31692 level=error ts=2020-10-21T15:13:05.316Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:05.32088 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:05.32090 
+2020-10-21_15:13:05.32091 goroutine 1 [running]:
+2020-10-21_15:13:05.32091 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fff999cbeb6, 0x1f, 0x14, 0x308c500, 0xc0006bc720, 0x308c500)
+2020-10-21_15:13:05.32091 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:05.32091 main.main()
+2020-10-21_15:13:05.32091 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:06.46929 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:06.46955 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:06.46957 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:06.46957 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:06.46957 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:06.46958 level=info ts=2020-10-21T15:13:06.469Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:06.46983 level=error ts=2020-10-21T15:13:06.469Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:06.47379 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:06.47381 
+2020-10-21_15:13:06.47382 goroutine 1 [running]:
+2020-10-21_15:13:06.47382 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd6c271eb6, 0x1f, 0x14, 0x308c500, 0xc00085acf0, 0x308c500)
+2020-10-21_15:13:06.47383 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:06.47384 main.main()
+2020-10-21_15:13:06.47384 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:07.60665 level=info ts=2020-10-21T15:13:07.606Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:07.60711 level=info ts=2020-10-21T15:13:07.607Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:07.60740 level=info ts=2020-10-21T15:13:07.607Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:07.60827 level=info ts=2020-10-21T15:13:07.608Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:07.60851 level=info ts=2020-10-21T15:13:07.608Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:07.60874 level=info ts=2020-10-21T15:13:07.608Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:07.60922 level=error ts=2020-10-21T15:13:07.609Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:07.61305 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:07.61307 
+2020-10-21_15:13:07.61308 goroutine 1 [running]:
+2020-10-21_15:13:07.61308 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe9835feb6, 0x1f, 0x14, 0x308c500, 0xc0007380c0, 0x308c500)
+2020-10-21_15:13:07.61309 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:07.61309 main.main()
+2020-10-21_15:13:07.61310 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:08.72457 level=info ts=2020-10-21T15:13:08.724Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:08.72460 level=info ts=2020-10-21T15:13:08.724Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:08.72471 level=info ts=2020-10-21T15:13:08.724Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:08.72913 level=info ts=2020-10-21T15:13:08.729Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:08.72916 level=info ts=2020-10-21T15:13:08.729Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:08.72936 level=info ts=2020-10-21T15:13:08.729Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:08.72970 level=error ts=2020-10-21T15:13:08.729Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:08.73303 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:08.73305 
+2020-10-21_15:13:08.73305 goroutine 1 [running]:
+2020-10-21_15:13:08.73307 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7fffc1715eb6, 0x1f, 0x14, 0x308c500, 0xc00084cd20, 0x308c500)
+2020-10-21_15:13:08.73307 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:08.73308 main.main()
+2020-10-21_15:13:08.73308 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:09.85530 level=info ts=2020-10-21T15:13:09.855Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:09.85550 level=info ts=2020-10-21T15:13:09.855Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:09.85566 level=info ts=2020-10-21T15:13:09.855Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:09.85582 level=info ts=2020-10-21T15:13:09.855Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:09.85604 level=info ts=2020-10-21T15:13:09.856Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:09.85623 level=info ts=2020-10-21T15:13:09.856Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:09.85655 level=error ts=2020-10-21T15:13:09.856Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:09.86293 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:09.86296 
+2020-10-21_15:13:09.86296 goroutine 1 [running]:
+2020-10-21_15:13:09.86296 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffc557a0eb6, 0x1f, 0x14, 0x308c500, 0xc0007f2ed0, 0x308c500)
+2020-10-21_15:13:09.86298 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:09.86518 main.main()
+2020-10-21_15:13:09.86520 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:10.98034 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:10.98039 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:10.98039 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:10.98062 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:10.98069 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:10.98084 level=info ts=2020-10-21T15:13:10.980Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:10.98113 level=error ts=2020-10-21T15:13:10.981Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:10.98494 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:10.98497 
+2020-10-21_15:13:10.98497 goroutine 1 [running]:
+2020-10-21_15:13:10.98497 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd4e298eb6, 0x1f, 0x14, 0x308c500, 0xc000755440, 0x308c500)
+2020-10-21_15:13:10.98499 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:10.98499 main.main()
+2020-10-21_15:13:10.98500 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:12.10759 level=info ts=2020-10-21T15:13:12.107Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:12.10794 level=info ts=2020-10-21T15:13:12.107Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:12.10797 level=info ts=2020-10-21T15:13:12.107Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:12.10803 level=info ts=2020-10-21T15:13:12.107Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:12.10841 level=info ts=2020-10-21T15:13:12.108Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:12.10844 level=info ts=2020-10-21T15:13:12.108Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:12.10863 level=error ts=2020-10-21T15:13:12.108Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:12.11396 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:12.11399 
+2020-10-21_15:13:12.11400 goroutine 1 [running]:
+2020-10-21_15:13:12.11400 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe22e7ceb6, 0x1f, 0x14, 0x308c500, 0xc00052ede0, 0x308c500)
+2020-10-21_15:13:12.11400 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:12.11403 main.main()
+2020-10-21_15:13:12.11404 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:13.23869 level=info ts=2020-10-21T15:13:13.238Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:13.23923 level=info ts=2020-10-21T15:13:13.238Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:13.23951 level=info ts=2020-10-21T15:13:13.239Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:13.24025 level=info ts=2020-10-21T15:13:13.240Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:13.24052 level=info ts=2020-10-21T15:13:13.240Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:13.24080 level=info ts=2020-10-21T15:13:13.240Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:13.24127 level=error ts=2020-10-21T15:13:13.241Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:13.24515 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:13.24519 
+2020-10-21_15:13:13.24520 goroutine 1 [running]:
+2020-10-21_15:13:13.24520 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffd5b064eb6, 0x1f, 0x14, 0x308c500, 0xc0004a9170, 0x308c500)
+2020-10-21_15:13:13.24521 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:13.24521 main.main()
+2020-10-21_15:13:13.24522 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:14.38322 level=info ts=2020-10-21T15:13:14.383Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:14.38348 level=info ts=2020-10-21T15:13:14.383Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:14.38370 level=info ts=2020-10-21T15:13:14.383Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:14.38411 level=info ts=2020-10-21T15:13:14.384Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:14.38428 level=info ts=2020-10-21T15:13:14.384Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:14.38446 level=info ts=2020-10-21T15:13:14.384Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:14.38474 level=error ts=2020-10-21T15:13:14.384Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:14.38899 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:14.38903 
+2020-10-21_15:13:14.38904 goroutine 1 [running]:
+2020-10-21_15:13:14.38904 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffe1a3a0eb6, 0x1f, 0x14, 0x308c500, 0xc000830930, 0x308c500)
+2020-10-21_15:13:14.38904 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:14.38905 main.main()
+2020-10-21_15:13:14.38905 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:15.51911 level=info ts=2020-10-21T15:13:15.519Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:15.51938 level=info ts=2020-10-21T15:13:15.519Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:15.51963 level=info ts=2020-10-21T15:13:15.519Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:15.51984 level=info ts=2020-10-21T15:13:15.519Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:15.52010 level=info ts=2020-10-21T15:13:15.519Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:15.52035 level=info ts=2020-10-21T15:13:15.520Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:15.52080 level=error ts=2020-10-21T15:13:15.520Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:15.52528 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:15.52559 
+2020-10-21_15:13:15.52575 goroutine 1 [running]:
+2020-10-21_15:13:15.52610 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffeaa95eeb6, 0x1f, 0x14, 0x308c500, 0xc0006662d0, 0x308c500)
+2020-10-21_15:13:15.52661 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:15.52701 main.main()
+2020-10-21_15:13:15.52725 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:16.64188 level=info ts=2020-10-21T15:13:16.641Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:16.64245 level=info ts=2020-10-21T15:13:16.642Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:16.64246 level=info ts=2020-10-21T15:13:16.642Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:16.64253 level=info ts=2020-10-21T15:13:16.642Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:16.64276 level=info ts=2020-10-21T15:13:16.642Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:16.64297 level=info ts=2020-10-21T15:13:16.642Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:16.64325 level=error ts=2020-10-21T15:13:16.643Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:16.64902 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:16.64903 
+2020-10-21_15:13:16.64904 goroutine 1 [running]:
+2020-10-21_15:13:16.64904 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffddf7d0eb6, 0x1f, 0x14, 0x308c500, 0xc000699b60, 0x308c500)
+2020-10-21_15:13:16.64905 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:16.64906 main.main()
+2020-10-21_15:13:16.64906 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
+2020-10-21_15:13:17.76462 level=info ts=2020-10-21T15:13:17.764Z caller=main.go:308 msg="No time or size retention was set so using the default time retention" duration=15d
+2020-10-21_15:13:17.76508 level=info ts=2020-10-21T15:13:17.765Z caller=main.go:343 msg="Starting Prometheus" version="(version=2.20.1, branch=master, revision=)"
+2020-10-21_15:13:17.76532 level=info ts=2020-10-21T15:13:17.765Z caller=main.go:344 build_context="(go=go1.14.7, user=GitLab-Omnibus, date=)"
+2020-10-21_15:13:17.76555 level=info ts=2020-10-21T15:13:17.765Z caller=main.go:345 host_details="(Linux 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64 gitlab.example.com (none))"
+2020-10-21_15:13:17.76593 level=info ts=2020-10-21T15:13:17.765Z caller=main.go:346 fd_limits="(soft=50000, hard=50000)"
+2020-10-21_15:13:17.76623 level=info ts=2020-10-21T15:13:17.766Z caller=main.go:347 vm_limits="(soft=unlimited, hard=unlimited)"
+2020-10-21_15:13:17.76695 level=error ts=2020-10-21T15:13:17.766Z caller=query_logger.go:87 component=activeQueryTracker msg="Error opening query log file" file=/var/opt/gitlab/prometheus/data/queries.active err="open /var/opt/gitlab/prometheus/data/queries.active: permission denied"
+2020-10-21_15:13:17.77105 panic: Unable to create mmap-ed active query log
+2020-10-21_15:13:17.77189 
+2020-10-21_15:13:17.77191 goroutine 1 [running]:
+2020-10-21_15:13:17.77192 github.com/prometheus/prometheus/promql.NewActiveQueryTracker(0x7ffcd53abeb6, 0x1f, 0x14, 0x308c500, 0xc000763ec0, 0x308c500)
+2020-10-21_15:13:17.77193 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/promql/query_logger.go:117 +0x4cd
+2020-10-21_15:13:17.77193 main.main()
+2020-10-21_15:13:17.77194 	/var/cache/omnibus/src/prometheus/src/github.com/prometheus/prometheus/cmd/prometheus/main.go:374 +0x4f08
