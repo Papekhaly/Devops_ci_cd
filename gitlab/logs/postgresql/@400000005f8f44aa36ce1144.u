@@ -1,6 +1,0 @@
-2020-10-20_20:10:56.69609 LOG:  listening on Unix socket "/var/opt/gitlab/postgresql/.s.PGSQL.5432"
-2020-10-20_20:10:56.73486 LOG:  database system was interrupted; last known up at 2020-10-20 20:09:47 GMT
-2020-10-20_20:10:56.79308 LOG:  database system was not properly shut down; automatic recovery in progress
-2020-10-20_20:10:56.79577 LOG:  invalid record length at 0/2DA69F0: wanted 24, got 0
-2020-10-20_20:10:56.79581 LOG:  redo is not required
-2020-10-20_20:10:56.82552 LOG:  database system is ready to accept connections
