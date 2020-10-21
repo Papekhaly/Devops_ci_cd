@@ -1,0 +1,17 @@
+2020-10-20_20:13:26.80060 239:C 20 Oct 2020 20:13:26.800 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2020-10-20_20:13:26.80065 239:C 20 Oct 2020 20:13:26.800 # Redis version=5.0.9, bits=64, commit=ce878b6e, modified=0, pid=239, just started
+2020-10-20_20:13:26.80065 239:C 20 Oct 2020 20:13:26.800 # Configuration loaded
+2020-10-20_20:13:26.80148 239:M 20 Oct 2020 20:13:26.801 * Running mode=standalone, port=0.
+2020-10-20_20:13:26.80149 239:M 20 Oct 2020 20:13:26.801 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+2020-10-20_20:13:26.80149 239:M 20 Oct 2020 20:13:26.801 # Server initialized
+2020-10-20_20:13:26.80150 239:M 20 Oct 2020 20:13:26.801 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2020-10-20_20:13:26.80150 239:M 20 Oct 2020 20:13:26.801 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+2020-10-20_20:13:26.80265 239:M 20 Oct 2020 20:13:26.802 * DB loaded from disk: 0.001 seconds
+2020-10-20_20:13:26.80266 239:M 20 Oct 2020 20:13:26.802 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket
+2020-10-20_20:16:02.43630 239:signal-handler (1603224962) Received SIGTERM scheduling shutdown...
+2020-10-20_20:16:02.46624 239:M 20 Oct 2020 20:16:02.466 # User requested shutdown...
+2020-10-20_20:16:02.46626 239:M 20 Oct 2020 20:16:02.466 * Saving the final RDB snapshot before exiting.
+2020-10-20_20:16:02.46901 239:M 20 Oct 2020 20:16:02.468 * DB saved on disk
+2020-10-20_20:16:02.46903 239:M 20 Oct 2020 20:16:02.468 * Removing the pid file.
+2020-10-20_20:16:02.46903 239:M 20 Oct 2020 20:16:02.468 * Removing the unix socket file.
+2020-10-20_20:16:02.46903 239:M 20 Oct 2020 20:16:02.468 # Redis is now ready to exit, bye bye...

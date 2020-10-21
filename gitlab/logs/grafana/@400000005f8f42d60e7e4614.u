@@ -1,0 +1,30 @@
+2020-10-20_20:01:44.87187 t=2020-10-20T20:01:44+0000 lvl=info msg="Starting Grafana" logger=server version=7.0.3 commit=00ee734baf branch=HEAD compiled=2020-06-03T15:19:31+0000
+2020-10-20_20:01:44.87194 t=2020-10-20T20:01:44+0000 lvl=info msg="Config loaded from" logger=settings file=/var/opt/gitlab/grafana/conf/defaults.ini
+2020-10-20_20:01:44.87194 t=2020-10-20T20:01:44+0000 lvl=info msg="Config loaded from" logger=settings file=/var/opt/gitlab/grafana/grafana.ini
+2020-10-20_20:01:44.87194 t=2020-10-20T20:01:44+0000 lvl=info msg="Path Home" logger=settings path=/var/opt/gitlab/grafana
+2020-10-20_20:01:44.87194 t=2020-10-20T20:01:44+0000 lvl=info msg="Path Data" logger=settings path=/var/opt/gitlab/grafana/data
+2020-10-20_20:01:44.87195 t=2020-10-20T20:01:44+0000 lvl=info msg="Path Logs" logger=settings path=/var/log/gitlab/grafana
+2020-10-20_20:01:44.87195 t=2020-10-20T20:01:44+0000 lvl=info msg="Path Plugins" logger=settings path=/var/opt/gitlab/grafana/data/plugins
+2020-10-20_20:01:44.87195 t=2020-10-20T20:01:44+0000 lvl=info msg="Path Provisioning" logger=settings path=/var/opt/gitlab/grafana/provisioning
+2020-10-20_20:01:44.87195 t=2020-10-20T20:01:44+0000 lvl=info msg="App mode production" logger=settings
+2020-10-20_20:01:44.87254 t=2020-10-20T20:01:44+0000 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+2020-10-20_20:01:44.87321 t=2020-10-20T20:01:44+0000 lvl=info msg="Starting DB migration" logger=migrator
+2020-10-20_20:01:44.88765 t=2020-10-20T20:01:44+0000 lvl=info msg="Starting plugin search" logger=plugins
+2020-10-20_20:01:44.95502 t=2020-10-20T20:01:44+0000 lvl=info msg="HTTP Server Listen" logger=http.server address=127.0.0.1:3000 protocol=http subUrl=/gitlab/-/grafana socket=
+2020-10-20_20:02:10.01625 t=2020-10-20T20:02:10+0000 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+2020-10-20_20:02:10.01630 t=2020-10-20T20:02:10+0000 lvl=info msg="Stopped Stream Manager"
+2020-10-20_20:02:10.05684 t=2020-10-20T20:02:10+0000 lvl=info msg="Starting Grafana" logger=server version=7.0.3 commit=00ee734baf branch=HEAD compiled=2020-06-03T15:19:31+0000
+2020-10-20_20:02:10.05691 t=2020-10-20T20:02:10+0000 lvl=info msg="Config loaded from" logger=settings file=/var/opt/gitlab/grafana/conf/defaults.ini
+2020-10-20_20:02:10.05696 t=2020-10-20T20:02:10+0000 lvl=info msg="Config loaded from" logger=settings file=/var/opt/gitlab/grafana/grafana.ini
+2020-10-20_20:02:10.05700 t=2020-10-20T20:02:10+0000 lvl=info msg="Path Home" logger=settings path=/var/opt/gitlab/grafana
+2020-10-20_20:02:10.05704 t=2020-10-20T20:02:10+0000 lvl=info msg="Path Data" logger=settings path=/var/opt/gitlab/grafana/data
+2020-10-20_20:02:10.05709 t=2020-10-20T20:02:10+0000 lvl=info msg="Path Logs" logger=settings path=/var/log/gitlab/grafana
+2020-10-20_20:02:10.05713 t=2020-10-20T20:02:10+0000 lvl=info msg="Path Plugins" logger=settings path=/var/opt/gitlab/grafana/data/plugins
+2020-10-20_20:02:10.05717 t=2020-10-20T20:02:10+0000 lvl=info msg="Path Provisioning" logger=settings path=/var/opt/gitlab/grafana/provisioning
+2020-10-20_20:02:10.05721 t=2020-10-20T20:02:10+0000 lvl=info msg="App mode production" logger=settings
+2020-10-20_20:02:10.05771 t=2020-10-20T20:02:10+0000 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+2020-10-20_20:02:10.05805 t=2020-10-20T20:02:10+0000 lvl=info msg="Starting DB migration" logger=migrator
+2020-10-20_20:02:10.06301 t=2020-10-20T20:02:10+0000 lvl=info msg="Starting plugin search" logger=plugins
+2020-10-20_20:02:10.12336 t=2020-10-20T20:02:10+0000 lvl=info msg="HTTP Server Listen" logger=http.server address=127.0.0.1:3000 protocol=http subUrl=/gitlab/-/grafana socket=
+2020-10-20_20:02:40.54771 t=2020-10-20T20:02:40+0000 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+2020-10-20_20:02:40.54776 t=2020-10-20T20:02:40+0000 lvl=info msg="Stopped Stream Manager"
