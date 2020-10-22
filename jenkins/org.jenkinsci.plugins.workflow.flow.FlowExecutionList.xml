@@ -1,7 +1,7 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <list>
   <flow-owner plugin="workflow-job@2.40">
-    <job>devops_pipe</job>
-    <id>18</id>
+    <job>job_apache</job>
+    <id>6</id>
   </flow-owner>
 </list>
